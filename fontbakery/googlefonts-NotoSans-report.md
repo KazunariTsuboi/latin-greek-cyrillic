@@ -121,25 +121,25 @@ kavykawithkavykaaboveinvertedlow [code: legacy-long-names]
 
 * ⚠ **WARN** The following glyphs could not be reached by codepoint or substitution rules:
 
-	- uni1FCE.case
-
-	- uni03B9030603130301
-
-	- uni1FCE0306
-
-	- uni03C5030603130301
-
-	- psilivaria_macronmod
-
-	- uni1FDD.case
-
-	- uni1FC0.case
-
-	- uni03C5030403140301
-
 	- uni03B9030403140300
 
-	- uni03C5030803060300 
+	- uni03B1030403130300
+
+	- uni03C5030803060300
+
+	- uni1FEF.case
+
+	- uni1FFE.case
+
+	- uni1FC1.case
+
+	- uni03B9030403130301
+
+	- uni1FCD0306
+
+	- uni1FDF.case
+
+	- uni1FFD.case 
 
 	- And 47 more.
 
@@ -225,19 +225,19 @@ kavykawithkavykaaboveinvertedlow [code: legacy-long-names]
 
 * ⚠ **WARN** The following glyphs could not be reached by codepoint or substitution rules:
 
-	- psilivaria_macronmod
-
-	- dasiaoxia_macronmod
-
 	- uni1FD9.salt
 
-	- dasiavaria_macronmod
+	- uni1FD8.salt
+
+	- uni03C5030803060301
 
 	- psilioxia_macronmod
 
-	- uni03C5030803060301 
+	- dasiaoxia_macronmod
 
-	- And uni1FD8.salt
+	- dasiavaria_macronmod 
+
+	- And psilivaria_macronmod
  [code: unreachable-glyphs]
 </div></details><details><summary>⚠ <b>WARN:</b> Does the font have a DSIG table? (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/dsig.html#com.google.fonts/check/dsig">com.google.fonts/check/dsig</a>)</summary><div>
 
@@ -277,11 +277,11 @@ The current recommendation is to completely remove the DSIG table. [code: found-
 
 
 * ⚠ **WARN** Following glyphs differ greatly from Google Fonts version:
-	* uniAB5B
-	* uni2C65
-	* oeopen
 	* solidusdotted
-	* uniA66E and uni0247
+	* uni2C65
+	* uniA66E
+	* uni0247
+	* oeopen and uniAB5B
 </div></details><details><summary>⚠ <b>WARN:</b> Ensure fonts have ScriptLangTags declared on the 'meta' table. (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/googlefonts.html#com.google.fonts/check/meta/script_lang_tags">com.google.fonts/check/meta/script_lang_tags</a>)</summary><div>
 
 
@@ -296,19 +296,19 @@ kavykawithkavykaaboveinvertedlow [code: legacy-long-names]
 
 * ⚠ **WARN** The following glyphs could not be reached by codepoint or substitution rules:
 
-	- psilivaria_macronmod
-
-	- dasiaoxia_macronmod
-
 	- uni1FD9.salt
 
-	- dasiavaria_macronmod
+	- uni1FD8.salt
+
+	- uni03C5030803060301
 
 	- psilioxia_macronmod
 
-	- uni03C5030803060301 
+	- dasiaoxia_macronmod
 
-	- And uni1FD8.salt
+	- dasiavaria_macronmod 
+
+	- And psilivaria_macronmod
  [code: unreachable-glyphs]
 </div></details><details><summary>⚠ <b>WARN:</b> Check if each glyph has the recommended amount of contours. (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/universal.html#com.google.fonts/check/contour_count">com.google.fonts/check/contour_count</a>)</summary><div>
 
@@ -447,8 +447,8 @@ Use -F or --full-lists to disable shortening of long lists. [code: found-semi-ve
 
 
 * ⚠ **WARN** Following glyphs differ greatly from Google Fonts version:
-	* uni2050
-	* solidusdotted and uniA66E
+	* solidusdotted
+	* uni2050 and uniA66E
 </div></details><details><summary>⚠ <b>WARN:</b> Ensure Stylistic Sets have description. (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/googlefonts.html#com.google.fonts/check/stylisticset_description">com.google.fonts/check/stylisticset_description</a>)</summary><div>
 
 
@@ -468,25 +468,25 @@ kavykawithkavykaaboveinvertedlow [code: legacy-long-names]
 
 * ⚠ **WARN** The following glyphs could not be reached by codepoint or substitution rules:
 
-	- uni1FCE.case
-
-	- uni03B9030603130301
-
-	- uni1FCE0306
-
-	- uni03C5030603130301
-
-	- psilivaria_macronmod
-
-	- uni1FDD.case
-
-	- uni1FC0.case
-
-	- uni03C5030403140301
-
 	- uni03B9030403140300
 
-	- uni03C5030803060300 
+	- uni03B1030403130300
+
+	- uni03C5030803060300
+
+	- uni1FEF.case
+
+	- uni1FFE.case
+
+	- uni1FC1.case
+
+	- uni03B9030403130301
+
+	- uni1FCD0306
+
+	- uni1FDF.case
+
+	- uni1FFD.case 
 
 	- And 47 more.
 
@@ -617,11 +617,11 @@ Use -F or --full-lists to disable shortening of long lists. [code: found-jaggy-s
 
 
 * ⚠ **WARN** Following glyphs differ greatly from Google Fonts version:
-	* uniAB5B
-	* uni2C65
-	* oeopen
 	* solidusdotted
-	* uniA66E and uni0247
+	* uni2C65
+	* uniA66E
+	* uni0247
+	* oeopen and uniAB5B
 </div></details><details><summary>⚠ <b>WARN:</b> Ensure fonts have ScriptLangTags declared on the 'meta' table. (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/googlefonts.html#com.google.fonts/check/meta/script_lang_tags">com.google.fonts/check/meta/script_lang_tags</a>)</summary><div>
 
 
@@ -636,19 +636,19 @@ kavykawithkavykaaboveinvertedlow [code: legacy-long-names]
 
 * ⚠ **WARN** The following glyphs could not be reached by codepoint or substitution rules:
 
-	- psilivaria_macronmod
-
-	- dasiaoxia_macronmod
-
 	- uni1FD9.salt
 
-	- dasiavaria_macronmod
+	- uni1FD8.salt
+
+	- uni03C5030803060301
 
 	- psilioxia_macronmod
 
-	- uni03C5030803060301 
+	- dasiaoxia_macronmod
 
-	- And uni1FD8.salt
+	- dasiavaria_macronmod 
+
+	- And psilivaria_macronmod
  [code: unreachable-glyphs]
 </div></details><details><summary>⚠ <b>WARN:</b> Check if each glyph has the recommended amount of contours. (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/universal.html#com.google.fonts/check/contour_count">com.google.fonts/check/contour_count</a>)</summary><div>
 
@@ -781,8 +781,8 @@ Use -F or --full-lists to disable shortening of long lists. [code: found-jaggy-s
 
 
 * ⚠ **WARN** Following glyphs differ greatly from Google Fonts version:
-	* uni2050
-	* solidusdotted and uniA66E
+	* solidusdotted
+	* uni2050 and uniA66E
 </div></details><details><summary>⚠ <b>WARN:</b> Ensure Stylistic Sets have description. (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/googlefonts.html#com.google.fonts/check/stylisticset_description">com.google.fonts/check/stylisticset_description</a>)</summary><div>
 
 
@@ -802,25 +802,25 @@ kavykawithkavykaaboveinvertedlow [code: legacy-long-names]
 
 * ⚠ **WARN** The following glyphs could not be reached by codepoint or substitution rules:
 
-	- uni1FCE.case
-
-	- uni03B9030603130301
-
-	- uni1FCE0306
-
-	- uni03C5030603130301
-
-	- psilivaria_macronmod
-
-	- uni1FDD.case
-
-	- uni1FC0.case
-
-	- uni03C5030403140301
-
 	- uni03B9030403140300
 
-	- uni03C5030803060300 
+	- uni03B1030403130300
+
+	- uni03C5030803060300
+
+	- uni1FEF.case
+
+	- uni1FFE.case
+
+	- uni1FC1.case
+
+	- uni03B9030403130301
+
+	- uni1FCD0306
+
+	- uni1FDF.case
+
+	- uni1FFD.case 
 
 	- And 47 more.
 
@@ -951,11 +951,11 @@ Use -F or --full-lists to disable shortening of long lists. [code: found-colinea
 
 
 * ⚠ **WARN** Following glyphs differ greatly from Google Fonts version:
-	* uniAB5B
-	* uni2C65
-	* oeopen
 	* solidusdotted
-	* uniA66E and uni0247
+	* uni2C65
+	* uniA66E
+	* uni0247
+	* oeopen and uniAB5B
 </div></details><details><summary>⚠ <b>WARN:</b> Ensure fonts have ScriptLangTags declared on the 'meta' table. (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/googlefonts.html#com.google.fonts/check/meta/script_lang_tags">com.google.fonts/check/meta/script_lang_tags</a>)</summary><div>
 
 
@@ -970,19 +970,19 @@ kavykawithkavykaaboveinvertedlow [code: legacy-long-names]
 
 * ⚠ **WARN** The following glyphs could not be reached by codepoint or substitution rules:
 
-	- psilivaria_macronmod
-
-	- dasiaoxia_macronmod
-
 	- uni1FD9.salt
 
-	- dasiavaria_macronmod
+	- uni1FD8.salt
+
+	- uni03C5030803060301
 
 	- psilioxia_macronmod
 
-	- uni03C5030803060301 
+	- dasiaoxia_macronmod
 
-	- And uni1FD8.salt
+	- dasiavaria_macronmod 
+
+	- And psilivaria_macronmod
  [code: unreachable-glyphs]
 </div></details><details><summary>⚠ <b>WARN:</b> Check if each glyph has the recommended amount of contours. (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/universal.html#com.google.fonts/check/contour_count">com.google.fonts/check/contour_count</a>)</summary><div>
 
@@ -1117,8 +1117,8 @@ Use -F or --full-lists to disable shortening of long lists. [code: found-jaggy-s
 
 
 * ⚠ **WARN** Following glyphs differ greatly from Google Fonts version:
-	* uni2050
-	* solidusdotted and uniA66E
+	* solidusdotted
+	* uni2050 and uniA66E
 </div></details><details><summary>⚠ <b>WARN:</b> Ensure Stylistic Sets have description. (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/googlefonts.html#com.google.fonts/check/stylisticset_description">com.google.fonts/check/stylisticset_description</a>)</summary><div>
 
 
@@ -1138,25 +1138,25 @@ kavykawithkavykaaboveinvertedlow [code: legacy-long-names]
 
 * ⚠ **WARN** The following glyphs could not be reached by codepoint or substitution rules:
 
-	- uni1FCE.case
-
-	- uni03B9030603130301
-
-	- uni1FCE0306
-
-	- uni03C5030603130301
-
-	- psilivaria_macronmod
-
-	- uni1FDD.case
-
-	- uni1FC0.case
-
-	- uni03C5030403140301
-
 	- uni03B9030403140300
 
-	- uni03C5030803060300 
+	- uni03B1030403130300
+
+	- uni03C5030803060300
+
+	- uni1FEF.case
+
+	- uni1FFE.case
+
+	- uni1FC1.case
+
+	- uni03B9030403130301
+
+	- uni1FCD0306
+
+	- uni1FDF.case
+
+	- uni1FFD.case 
 
 	- And 47 more.
 
@@ -1279,8 +1279,8 @@ Use -F or --full-lists to disable shortening of long lists. [code: found-colinea
 
 
 * ⚠ **WARN** Following glyphs differ greatly from Google Fonts version:
-	* uniAB5B
-	* uni2C65 and uniA66E
+	* uni2C65
+	* uniA66E and uniAB5B
 </div></details><details><summary>⚠ <b>WARN:</b> Ensure fonts have ScriptLangTags declared on the 'meta' table. (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/googlefonts.html#com.google.fonts/check/meta/script_lang_tags">com.google.fonts/check/meta/script_lang_tags</a>)</summary><div>
 
 
@@ -1295,19 +1295,19 @@ kavykawithkavykaaboveinvertedlow [code: legacy-long-names]
 
 * ⚠ **WARN** The following glyphs could not be reached by codepoint or substitution rules:
 
-	- psilivaria_macronmod
-
-	- dasiaoxia_macronmod
-
 	- uni1FD9.salt
 
-	- dasiavaria_macronmod
+	- uni1FD8.salt
+
+	- uni03C5030803060301
 
 	- psilioxia_macronmod
 
-	- uni03C5030803060301 
+	- dasiaoxia_macronmod
 
-	- And uni1FD8.salt
+	- dasiavaria_macronmod 
+
+	- And psilivaria_macronmod
  [code: unreachable-glyphs]
 </div></details><details><summary>⚠ <b>WARN:</b> Check if each glyph has the recommended amount of contours. (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/universal.html#com.google.fonts/check/contour_count">com.google.fonts/check/contour_count</a>)</summary><div>
 
@@ -1436,9 +1436,9 @@ Use -F or --full-lists to disable shortening of long lists. [code: found-colinea
 
 
 * ⚠ **WARN** Following glyphs differ greatly from Google Fonts version:
+	* Odoublecy
 	* uni2050
-	* uniA74E
-	* uniA66E and Odoublecy
+	* uniA74E and uniA66E
 </div></details><details><summary>⚠ <b>WARN:</b> Ensure Stylistic Sets have description. (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/googlefonts.html#com.google.fonts/check/stylisticset_description">com.google.fonts/check/stylisticset_description</a>)</summary><div>
 
 
@@ -1458,25 +1458,25 @@ kavykawithkavykaaboveinvertedlow [code: legacy-long-names]
 
 * ⚠ **WARN** The following glyphs could not be reached by codepoint or substitution rules:
 
-	- uni1FCE.case
-
-	- uni03B9030603130301
-
-	- uni1FCE0306
-
-	- uni03C5030603130301
-
-	- psilivaria_macronmod
-
-	- uni1FDD.case
-
-	- uni1FC0.case
-
-	- uni03C5030403140301
-
 	- uni03B9030403140300
 
-	- uni03C5030803060300 
+	- uni03B1030403130300
+
+	- uni03C5030803060300
+
+	- uni1FEF.case
+
+	- uni1FFE.case
+
+	- uni1FC1.case
+
+	- uni03B9030403130301
+
+	- uni1FCD0306
+
+	- uni1FDF.case
+
+	- uni1FFD.case 
 
 	- And 47 more.
 
@@ -1601,8 +1601,8 @@ Use -F or --full-lists to disable shortening of long lists. [code: found-colinea
 
 
 * ⚠ **WARN** Following glyphs differ greatly from Google Fonts version:
-	* uni2050
-	* solidusdotted and uniA66E
+	* solidusdotted
+	* uni2050 and uniA66E
 </div></details><details><summary>⚠ <b>WARN:</b> Ensure Stylistic Sets have description. (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/googlefonts.html#com.google.fonts/check/stylisticset_description">com.google.fonts/check/stylisticset_description</a>)</summary><div>
 
 
@@ -1622,25 +1622,25 @@ kavykawithkavykaaboveinvertedlow [code: legacy-long-names]
 
 * ⚠ **WARN** The following glyphs could not be reached by codepoint or substitution rules:
 
-	- uni1FCE.case
-
-	- uni03B9030603130301
-
-	- uni1FCE0306
-
-	- uni03C5030603130301
-
-	- psilivaria_macronmod
-
-	- uni1FDD.case
-
-	- uni1FC0.case
-
-	- uni03C5030403140301
-
 	- uni03B9030403140300
 
-	- uni03C5030803060300 
+	- uni03B1030403130300
+
+	- uni03C5030803060300
+
+	- uni1FEF.case
+
+	- uni1FFE.case
+
+	- uni1FC1.case
+
+	- uni03B9030403130301
+
+	- uni1FCD0306
+
+	- uni1FDF.case
+
+	- uni1FFD.case 
 
 	- And 47 more.
 
@@ -1771,10 +1771,10 @@ Use -F or --full-lists to disable shortening of long lists. [code: found-jaggy-s
 
 
 * ⚠ **WARN** Following glyphs differ greatly from Google Fonts version:
-	* uniAB5B
 	* uni2C65
-	* oeopen
-	* uniA66E and uni0247
+	* uniA66E
+	* uni0247
+	* oeopen and uniAB5B
 </div></details><details><summary>⚠ <b>WARN:</b> Ensure fonts have ScriptLangTags declared on the 'meta' table. (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/googlefonts.html#com.google.fonts/check/meta/script_lang_tags">com.google.fonts/check/meta/script_lang_tags</a>)</summary><div>
 
 
@@ -1789,19 +1789,19 @@ kavykawithkavykaaboveinvertedlow [code: legacy-long-names]
 
 * ⚠ **WARN** The following glyphs could not be reached by codepoint or substitution rules:
 
-	- psilivaria_macronmod
-
-	- dasiaoxia_macronmod
-
 	- uni1FD9.salt
 
-	- dasiavaria_macronmod
+	- uni1FD8.salt
+
+	- uni03C5030803060301
 
 	- psilioxia_macronmod
 
-	- uni03C5030803060301 
+	- dasiaoxia_macronmod
 
-	- And uni1FD8.salt
+	- dasiavaria_macronmod 
+
+	- And psilivaria_macronmod
  [code: unreachable-glyphs]
 </div></details><details><summary>⚠ <b>WARN:</b> Check if each glyph has the recommended amount of contours. (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/universal.html#com.google.fonts/check/contour_count">com.google.fonts/check/contour_count</a>)</summary><div>
 
@@ -1910,9 +1910,9 @@ Use -F or --full-lists to disable shortening of long lists.
 
 
 * ⚠ **WARN** Following glyphs differ greatly from Google Fonts version:
+	* Odoublecy
 	* uni2050
-	* uniA74E
-	* uniA66E and Odoublecy
+	* uniA74E and uniA66E
 </div></details><details><summary>⚠ <b>WARN:</b> Ensure Stylistic Sets have description. (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/googlefonts.html#com.google.fonts/check/stylisticset_description">com.google.fonts/check/stylisticset_description</a>)</summary><div>
 
 
@@ -1932,25 +1932,25 @@ kavykawithkavykaaboveinvertedlow [code: legacy-long-names]
 
 * ⚠ **WARN** The following glyphs could not be reached by codepoint or substitution rules:
 
-	- uni1FCE.case
-
-	- uni03B9030603130301
-
-	- uni1FCE0306
-
-	- uni03C5030603130301
-
-	- psilivaria_macronmod
-
-	- uni1FDD.case
-
-	- uni1FC0.case
-
-	- uni03C5030403140301
-
 	- uni03B9030403140300
 
-	- uni03C5030803060300 
+	- uni03B1030403130300
+
+	- uni03C5030803060300
+
+	- uni1FEF.case
+
+	- uni1FFE.case
+
+	- uni1FC1.case
+
+	- uni03B9030403130301
+
+	- uni1FCD0306
+
+	- uni1FDF.case
+
+	- uni1FFD.case 
 
 	- And 47 more.
 
@@ -2073,11 +2073,11 @@ Use -F or --full-lists to disable shortening of long lists. [code: found-colinea
 
 
 * ⚠ **WARN** Following glyphs differ greatly from Google Fonts version:
-	* uniAB5B
-	* uni2C65
-	* oeopen
 	* solidusdotted
-	* uniA66E and uni0247
+	* uni2C65
+	* uniA66E
+	* uni0247
+	* oeopen and uniAB5B
 </div></details><details><summary>⚠ <b>WARN:</b> Ensure fonts have ScriptLangTags declared on the 'meta' table. (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/googlefonts.html#com.google.fonts/check/meta/script_lang_tags">com.google.fonts/check/meta/script_lang_tags</a>)</summary><div>
 
 
@@ -2092,19 +2092,19 @@ kavykawithkavykaaboveinvertedlow [code: legacy-long-names]
 
 * ⚠ **WARN** The following glyphs could not be reached by codepoint or substitution rules:
 
-	- psilivaria_macronmod
-
-	- dasiaoxia_macronmod
-
 	- uni1FD9.salt
 
-	- dasiavaria_macronmod
+	- uni1FD8.salt
+
+	- uni03C5030803060301
 
 	- psilioxia_macronmod
 
-	- uni03C5030803060301 
+	- dasiaoxia_macronmod
 
-	- And uni1FD8.salt
+	- dasiavaria_macronmod 
+
+	- And psilivaria_macronmod
  [code: unreachable-glyphs]
 </div></details><details><summary>⚠ <b>WARN:</b> Check if each glyph has the recommended amount of contours. (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/universal.html#com.google.fonts/check/contour_count">com.google.fonts/check/contour_count</a>)</summary><div>
 
@@ -2215,8 +2215,8 @@ Use -F or --full-lists to disable shortening of long lists.
 
 
 * ⚠ **WARN** Following glyphs differ greatly from Google Fonts version:
-	* uni2050
-	* solidusdotted and uniA66E
+	* solidusdotted
+	* uni2050 and uniA66E
 </div></details><details><summary>⚠ <b>WARN:</b> Ensure Stylistic Sets have description. (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/googlefonts.html#com.google.fonts/check/stylisticset_description">com.google.fonts/check/stylisticset_description</a>)</summary><div>
 
 
@@ -2236,25 +2236,25 @@ kavykawithkavykaaboveinvertedlow [code: legacy-long-names]
 
 * ⚠ **WARN** The following glyphs could not be reached by codepoint or substitution rules:
 
-	- uni1FCE.case
-
-	- uni03B9030603130301
-
-	- uni1FCE0306
-
-	- uni03C5030603130301
-
-	- psilivaria_macronmod
-
-	- uni1FDD.case
-
-	- uni1FC0.case
-
-	- uni03C5030403140301
-
 	- uni03B9030403140300
 
-	- uni03C5030803060300 
+	- uni03B1030403130300
+
+	- uni03C5030803060300
+
+	- uni1FEF.case
+
+	- uni1FFE.case
+
+	- uni1FC1.case
+
+	- uni03B9030403130301
+
+	- uni1FCD0306
+
+	- uni1FDF.case
+
+	- uni1FFD.case 
 
 	- And 47 more.
 
@@ -2385,11 +2385,11 @@ Use -F or --full-lists to disable shortening of long lists. [code: found-jaggy-s
 
 
 * ⚠ **WARN** Following glyphs differ greatly from Google Fonts version:
-	* uniAB5B
-	* uni2C65
-	* oeopen
 	* solidusdotted
-	* uniA66E and uni0247
+	* uni2C65
+	* uniA66E
+	* uni0247
+	* oeopen and uniAB5B
 </div></details><details><summary>⚠ <b>WARN:</b> Ensure fonts have ScriptLangTags declared on the 'meta' table. (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/googlefonts.html#com.google.fonts/check/meta/script_lang_tags">com.google.fonts/check/meta/script_lang_tags</a>)</summary><div>
 
 
@@ -2404,19 +2404,19 @@ kavykawithkavykaaboveinvertedlow [code: legacy-long-names]
 
 * ⚠ **WARN** The following glyphs could not be reached by codepoint or substitution rules:
 
-	- psilivaria_macronmod
-
-	- dasiaoxia_macronmod
-
 	- uni1FD9.salt
 
-	- dasiavaria_macronmod
+	- uni1FD8.salt
+
+	- uni03C5030803060301
 
 	- psilioxia_macronmod
 
-	- uni03C5030803060301 
+	- dasiaoxia_macronmod
 
-	- And uni1FD8.salt
+	- dasiavaria_macronmod 
+
+	- And psilivaria_macronmod
  [code: unreachable-glyphs]
 </div></details><details><summary>⚠ <b>WARN:</b> Check if each glyph has the recommended amount of contours. (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/universal.html#com.google.fonts/check/contour_count">com.google.fonts/check/contour_count</a>)</summary><div>
 
@@ -2525,11 +2525,11 @@ Use -F or --full-lists to disable shortening of long lists.
 
 
 * ⚠ **WARN** Following glyphs differ greatly from Google Fonts version:
-	* uniAB5B
-	* uni2C65
-	* oeopen
 	* solidusdotted
-	* uniA66E and uni0247
+	* uni2C65
+	* uniA66E
+	* uni0247
+	* oeopen and uniAB5B
 </div></details><details><summary>⚠ <b>WARN:</b> Ensure fonts have ScriptLangTags declared on the 'meta' table. (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/googlefonts.html#com.google.fonts/check/meta/script_lang_tags">com.google.fonts/check/meta/script_lang_tags</a>)</summary><div>
 
 
@@ -2544,19 +2544,19 @@ kavykawithkavykaaboveinvertedlow [code: legacy-long-names]
 
 * ⚠ **WARN** The following glyphs could not be reached by codepoint or substitution rules:
 
-	- psilivaria_macronmod
-
-	- dasiaoxia_macronmod
-
 	- uni1FD9.salt
 
-	- dasiavaria_macronmod
+	- uni1FD8.salt
+
+	- uni03C5030803060301
 
 	- psilioxia_macronmod
 
-	- uni03C5030803060301 
+	- dasiaoxia_macronmod
 
-	- And uni1FD8.salt
+	- dasiavaria_macronmod 
+
+	- And psilivaria_macronmod
  [code: unreachable-glyphs]
 </div></details><details><summary>⚠ <b>WARN:</b> Check if each glyph has the recommended amount of contours. (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/universal.html#com.google.fonts/check/contour_count">com.google.fonts/check/contour_count</a>)</summary><div>
 
@@ -2677,8 +2677,8 @@ Use -F or --full-lists to disable shortening of long lists. [code: found-jaggy-s
 
 
 * ⚠ **WARN** Following glyphs differ greatly from Google Fonts version:
-	* uni2050
-	* solidusdotted and uniA66E
+	* solidusdotted
+	* uni2050 and uniA66E
 </div></details><details><summary>⚠ <b>WARN:</b> Ensure Stylistic Sets have description. (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/googlefonts.html#com.google.fonts/check/stylisticset_description">com.google.fonts/check/stylisticset_description</a>)</summary><div>
 
 
@@ -2698,25 +2698,25 @@ kavykawithkavykaaboveinvertedlow [code: legacy-long-names]
 
 * ⚠ **WARN** The following glyphs could not be reached by codepoint or substitution rules:
 
-	- uni1FCE.case
-
-	- uni03B9030603130301
-
-	- uni1FCE0306
-
-	- uni03C5030603130301
-
-	- psilivaria_macronmod
-
-	- uni1FDD.case
-
-	- uni1FC0.case
-
-	- uni03C5030403140301
-
 	- uni03B9030403140300
 
-	- uni03C5030803060300 
+	- uni03B1030403130300
+
+	- uni03C5030803060300
+
+	- uni1FEF.case
+
+	- uni1FFE.case
+
+	- uni1FC1.case
+
+	- uni03B9030403130301
+
+	- uni1FCD0306
+
+	- uni1FDF.case
+
+	- uni1FFD.case 
 
 	- And 47 more.
 
@@ -2843,8 +2843,8 @@ Use -F or --full-lists to disable shortening of long lists. [code: found-colinea
 
 
 * ⚠ **WARN** Following glyphs differ greatly from Google Fonts version:
-	* uniAB5B
-	* uni2C65 and uniA66E
+	* uni2C65
+	* uniA66E and uniAB5B
 </div></details><details><summary>⚠ <b>WARN:</b> Ensure fonts have ScriptLangTags declared on the 'meta' table. (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/googlefonts.html#com.google.fonts/check/meta/script_lang_tags">com.google.fonts/check/meta/script_lang_tags</a>)</summary><div>
 
 
@@ -2859,19 +2859,19 @@ kavykawithkavykaaboveinvertedlow [code: legacy-long-names]
 
 * ⚠ **WARN** The following glyphs could not be reached by codepoint or substitution rules:
 
-	- psilivaria_macronmod
-
-	- dasiaoxia_macronmod
-
 	- uni1FD9.salt
 
-	- dasiavaria_macronmod
+	- uni1FD8.salt
+
+	- uni03C5030803060301
 
 	- psilioxia_macronmod
 
-	- uni03C5030803060301 
+	- dasiaoxia_macronmod
 
-	- And uni1FD8.salt
+	- dasiavaria_macronmod 
+
+	- And psilivaria_macronmod
  [code: unreachable-glyphs]
 </div></details><details><summary>⚠ <b>WARN:</b> Check if each glyph has the recommended amount of contours. (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/universal.html#com.google.fonts/check/contour_count">com.google.fonts/check/contour_count</a>)</summary><div>
 
@@ -3032,25 +3032,25 @@ kavykawithkavykaaboveinvertedlow [code: legacy-long-names]
 
 * ⚠ **WARN** The following glyphs could not be reached by codepoint or substitution rules:
 
-	- uni1FCE.case
-
-	- uni03B9030603130301
-
-	- uni1FCE0306
-
-	- uni03C5030603130301
-
-	- psilivaria_macronmod
-
-	- uni1FDD.case
-
-	- uni1FC0.case
-
-	- uni03C5030403140301
-
 	- uni03B9030403140300
 
-	- uni03C5030803060300 
+	- uni03B1030403130300
+
+	- uni03C5030803060300
+
+	- uni1FEF.case
+
+	- uni1FFE.case
+
+	- uni1FC1.case
+
+	- uni03B9030403130301
+
+	- uni1FCD0306
+
+	- uni1FDF.case
+
+	- uni1FFD.case 
 
 	- And 47 more.
 
@@ -3260,25 +3260,25 @@ kavykawithkavykaaboveinvertedlow [code: legacy-long-names]
 
 * ⚠ **WARN** The following glyphs could not be reached by codepoint or substitution rules:
 
-	- uni1FCE.case
-
-	- uni03B9030603130301
-
-	- uni1FCE0306
-
-	- uni03C5030603130301
-
-	- psilivaria_macronmod
-
-	- uni1FDD.case
-
-	- uni1FC0.case
-
-	- uni03C5030403140301
-
 	- uni03B9030403140300
 
-	- uni03C5030803060300 
+	- uni03B1030403130300
+
+	- uni03C5030803060300
+
+	- uni1FEF.case
+
+	- uni1FFE.case
+
+	- uni1FC1.case
+
+	- uni03B9030403130301
+
+	- uni1FCD0306
+
+	- uni1FDF.case
+
+	- uni1FFD.case 
 
 	- And 47 more.
 
@@ -3364,19 +3364,19 @@ kavykawithkavykaaboveinvertedlow [code: legacy-long-names]
 
 * ⚠ **WARN** The following glyphs could not be reached by codepoint or substitution rules:
 
-	- psilivaria_macronmod
-
-	- dasiaoxia_macronmod
-
 	- uni1FD9.salt
 
-	- dasiavaria_macronmod
+	- uni1FD8.salt
+
+	- uni03C5030803060301
 
 	- psilioxia_macronmod
 
-	- uni03C5030803060301 
+	- dasiaoxia_macronmod
 
-	- And uni1FD8.salt
+	- dasiavaria_macronmod 
+
+	- And psilivaria_macronmod
  [code: unreachable-glyphs]
 </div></details><details><summary>⚠ <b>WARN:</b> Does the font have a DSIG table? (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/dsig.html#com.google.fonts/check/dsig">com.google.fonts/check/dsig</a>)</summary><div>
 

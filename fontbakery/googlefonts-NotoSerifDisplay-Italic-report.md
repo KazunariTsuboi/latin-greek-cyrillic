@@ -114,25 +114,25 @@ kavykawithkavykaaboveinvertedlow [code: legacy-long-names]
 
 * ⚠ **WARN** The following glyphs could not be reached by codepoint or substitution rules:
 
-	- uni1FCE0306
+	- uni03C5030803060300
+
+	- uni03B9030403140300
+
+	- uni03B9030803040300
+
+	- uni1FDD0306
 
 	- dasiavaria_macronmod
 
 	- uni1FCD0306
 
-	- uni03B1030603140301
+	- uni03B9030803060300
 
-	- uni1FCE02C9
+	- uni03C5030803040300
 
-	- dasiaoxia_macronmod
+	- uni03C5030803040301
 
-	- beta.alt1
-
-	- uni03B9030803040300
-
-	- uni03C5030603140301
-
-	- uni03C5030603130301 
+	- uni03C5030803060301 
 
 	- And 35 more.
 
@@ -180,16 +180,16 @@ But instead we have got:
 
 
 * ⚠ **WARN** Following glyphs differ greatly from Google Fonts version:
-	* pi
-	* uni1F57
-	* uni0424
-	* uni1F42
+	* uni1F7D
+	* uni1F8F
 	* uni1F3B
-	* uni1FCE
-	* four.lf
-	* uni0278
-	* uni1F6A
-	* uni0345 and 220 more.
+	* uni03BC
+	* uni1F32
+	* uni03B9030403140300
+	* uni1F3F
+	* uni1F54
+	* uniAB5E
+	* uni03D7 and 220 more.
 
 Use -F or --full-lists to disable shortening of long lists.
 </div></details><details><summary>⚠ <b>WARN:</b> Is there kerning info for non-ligated sequences? (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/googlefonts.html#com.google.fonts/check/kerning_for_non_ligated_sequences">com.google.fonts/check/kerning_for_non_ligated_sequences</a>)</summary><div>
@@ -246,25 +246,25 @@ kavykawithkavykaaboveinvertedlow [code: legacy-long-names]
 
 * ⚠ **WARN** The following glyphs could not be reached by codepoint or substitution rules:
 
-	- uni1FCE0306
+	- uni03C5030803060300
+
+	- uni03B9030403140300
+
+	- uni03B9030803040300
+
+	- uni1FDD0306
 
 	- dasiavaria_macronmod
 
 	- uni1FCD0306
 
-	- uni03B1030603140301
+	- uni03B9030803060300
 
-	- uni1FCE02C9
+	- uni03C5030803040300
 
-	- dasiaoxia_macronmod
+	- uni03C5030803040301
 
-	- beta.alt1
-
-	- uni03B9030803040300
-
-	- uni03C5030603140301
-
-	- uni03C5030603130301 
+	- uni03C5030803060301 
 
 	- And 35 more.
 
@@ -363,7 +363,7 @@ Use -F or --full-lists to disable shortening of long lists. [code: found-colinea
 	* And 58 more.
 
 Use -F or --full-lists to disable shortening of long lists. [code: found-jaggy-segments]
-</div></details><br></div></details><details><summary><b>[24] NotoSerifDisplay-BoldItalic.ttf</b></summary><div><details><summary>💔 <b>ERROR:</b> Check if the vertical metrics of a family are similar to the same family hosted on Google Fonts. (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/googlefonts.html#com.google.fonts/check/vertical_metrics_regressions">com.google.fonts/check/vertical_metrics_regressions</a>)</summary><div>
+</div></details><br></div></details><details><summary><b>[17] NotoSerifDisplay-BoldItalic.ttf</b></summary><div><details><summary>💔 <b>ERROR:</b> Check if the vertical metrics of a family are similar to the same family hosted on Google Fonts. (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/googlefonts.html#com.google.fonts/check/vertical_metrics_regressions">com.google.fonts/check/vertical_metrics_regressions</a>)</summary><div>
 
 
 * 💔 **ERROR** Failed with TypeError: 'NoneType' object is not subscriptable
@@ -381,45 +381,12 @@ Use -F or --full-lists to disable shortening of long lists. [code: found-jaggy-s
 
 
 * 🔥 **FAIL** License file OFL.txt exists but NameID 13 (LICENSE DESCRIPTION) value on platform 3 (WINDOWS) is not specified for that. Value was: "This Font Software is licensed under the SIL Open Font License, Version 1.1. This Font Software is distributed on an "AS IS" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied. See the SIL Open Font License for the specific language, permissions and limitations governing your use of this Font Software." Must be changed to "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL" [code: wrong]
-</div></details><details><summary>🔥 <b>FAIL:</b> Is the Grid-fitting and Scan-conversion Procedure ('gasp') table set to optimize rendering? (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/googlefonts.html#com.google.fonts/check/gasp">com.google.fonts/check/gasp</a>)</summary><div>
-
-
-* 🔥 **FAIL** Font is missing the 'gasp' table. Try exporting the font with autohinting enabled.
-If you are dealing with an unhinted font, it can be fixed by running the fonts through the command 'gftools fix-nonhinting'
-GFTools is available at https://pypi.org/project/gftools/ [code: lacks-gasp]
 </div></details><details><summary>🔥 <b>FAIL:</b> Copyright notices match canonical pattern in fonts (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/googlefonts.html#com.google.fonts/check/font_copyright">com.google.fonts/check/font_copyright</a>)</summary><div>
 
 
 * 🔥 **FAIL** Name Table entry: Copyright notices should match a pattern similar to: "Copyright 2019 The Familyname Project Authors (git url)"
 But instead we have got:
 "Copyright 2016-2021 Google Inc. All Rights Reserved." [code: bad-notice-format]
-</div></details><details><summary>🔥 <b>FAIL:</b> Checking OS/2 fsSelection value. (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/googlefonts.html#com.google.fonts/check/fsselection">com.google.fonts/check/fsselection</a>)</summary><div>
-
-
-* 🔥 **FAIL** OS/2 fsSelection REGULAR bit should be unset. [code: bad-REGULAR]
-* 🔥 **FAIL** OS/2 fsSelection ITALIC bit should be set. [code: bad-ITALIC]
-* 🔥 **FAIL** OS/2 fsSelection BOLD bit should be set. [code: bad-BOLD]
-</div></details><details><summary>🔥 <b>FAIL:</b> Checking head.macStyle value. (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/googlefonts.html#com.google.fonts/check/mac_style">com.google.fonts/check/mac_style</a>)</summary><div>
-
-
-* 🔥 **FAIL** head macStyle ITALIC bit should be set. [code: bad-ITALIC]
-* 🔥 **FAIL** head macStyle BOLD bit should be set. [code: bad-BOLD]
-</div></details><details><summary>🔥 <b>FAIL:</b> Check name table: FONT_FAMILY_NAME entries. (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/googlefonts.html#com.google.fonts/check/name/familyname">com.google.fonts/check/name/familyname</a>)</summary><div>
-
-
-* 🔥 **FAIL** Entry [FONT_FAMILY_NAME(1):WINDOWS(3)] on the "name" table: Expected "Noto Serif Display" but got "Noto Serif Display Bold Italic". [code: mismatch]
-</div></details><details><summary>🔥 <b>FAIL:</b> Check name table: FONT_SUBFAMILY_NAME entries. (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/googlefonts.html#com.google.fonts/check/name/subfamilyname">com.google.fonts/check/name/subfamilyname</a>)</summary><div>
-
-
-* 🔥 **FAIL** SUBFAMILY_NAME for Win "Regular" must be "Bold Italic" [code: bad-familyname]
-</div></details><details><summary>🔥 <b>FAIL:</b> Check name table: TYPOGRAPHIC_FAMILY_NAME entries. (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/googlefonts.html#com.google.fonts/check/name/typographicfamilyname">com.google.fonts/check/name/typographicfamilyname</a>)</summary><div>
-
-
-* 🔥 **FAIL** Font style is "BoldItalic" and, for that reason, it is not expected to have a [TYPOGRAPHIC_FAMILY_NAME(16):WINDOWS(3)] entry! [code: ribbi]
-</div></details><details><summary>🔥 <b>FAIL:</b> Font enables smart dropout control in "prep" table instructions? (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/googlefonts.html#com.google.fonts/check/smart_dropout">com.google.fonts/check/smart_dropout</a>)</summary><div>
-
-
-* 🔥 **FAIL** The 'prep' table does not contain TrueType instructions enabling smart dropout control. To fix, export the font with autohinting enabled, or run ttfautohint on the font, or run the `gftools fix-nonhinting` script. [code: lacks-smart-dropout]
 </div></details><details><summary>🔥 <b>FAIL:</b> OS/2.fsSelection bit 7 (USE_TYPO_METRICS) is set in all fonts. (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/googlefonts.html#com.google.fonts/check/os2/use_typo_metrics">com.google.fonts/check/os2/use_typo_metrics</a>)</summary><div>
 
 
@@ -433,16 +400,16 @@ But instead we have got:
 
 
 * ⚠ **WARN** Following glyphs differ greatly from Google Fonts version:
-	* pi
-	* uni1F57
+	* uni1F27
+	* uni1F7D
+	* uni1F8F
 	* uni1F3B
-	* four.lf
-	* uni0278
-	* uni1F6A
-	* uni0345
-	* uni1F62
-	* uni1FE0
-	* uni1F92 and 191 more.
+	* uni03BC
+	* uni1F3F
+	* uni03F1
+	* uni1F54
+	* uni03D7
+	* Sigma and 191 more.
 
 Use -F or --full-lists to disable shortening of long lists.
 </div></details><details><summary>⚠ <b>WARN:</b> Is there kerning info for non-ligated sequences? (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/googlefonts.html#com.google.fonts/check/kerning_for_non_ligated_sequences">com.google.fonts/check/kerning_for_non_ligated_sequences</a>)</summary><div>
@@ -475,7 +442,7 @@ Use -F or --full-lists to disable shortening of long lists.
 
 
 * ⚠ **WARN** The combined length of family and style exceeds 27 chars in the following 'WINDOWS' entries:
- FONT_FAMILY_NAME = 'Noto Serif Display Bold Italic' / SUBFAMILY_NAME = 'Regular'
+ FONT_FAMILY_NAME = 'Noto Serif Display' / SUBFAMILY_NAME = 'Bold Italic'
 
 Please take a look at the conversation at https://github.com/googlefonts/fontbakery/issues/2179 in order to understand the reasoning behind these name table records max-length criteria. [code: too-long]
 </div></details><details><summary>⚠ <b>WARN:</b> Ensure Stylistic Sets have description. (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/googlefonts.html#com.google.fonts/check/stylisticset_description">com.google.fonts/check/stylisticset_description</a>)</summary><div>
@@ -499,25 +466,25 @@ kavykawithkavykaaboveinvertedlow [code: legacy-long-names]
 
 * ⚠ **WARN** The following glyphs could not be reached by codepoint or substitution rules:
 
-	- uni1FCE0306
+	- uni03C5030803060300
+
+	- uni03B9030403140300
+
+	- uni03B9030803040300
+
+	- uni1FDD0306
 
 	- dasiavaria_macronmod
 
 	- uni1FCD0306
 
-	- uni03B1030603140301
+	- uni03B9030803060300
 
-	- uni1FCE02C9
+	- uni03C5030803040300
 
-	- dasiaoxia_macronmod
+	- uni03C5030803040301
 
-	- beta.alt1
-
-	- uni03B9030803040300
-
-	- uni03C5030603140301
-
-	- uni03C5030603130301 
+	- uni03C5030803060301 
 
 	- And 35 more.
 
@@ -653,16 +620,16 @@ But instead we have got:
 
 
 * ⚠ **WARN** Following glyphs differ greatly from Google Fonts version:
-	* pi
-	* uni1F57
-	* uni0424
-	* uni1F42
+	* uni1F7D
+	* uni1F8F
 	* uni1F3B
-	* uni1FCE
-	* four.lf
-	* uni0278
-	* uni1F6A
-	* uni0345 and 216 more.
+	* uni03BC
+	* uni1F32
+	* uni03B9030403140300
+	* uni1F3F
+	* uni03F1
+	* uni1F54
+	* uni03D7 and 216 more.
 
 Use -F or --full-lists to disable shortening of long lists.
 </div></details><details><summary>⚠ <b>WARN:</b> Is there kerning info for non-ligated sequences? (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/googlefonts.html#com.google.fonts/check/kerning_for_non_ligated_sequences">com.google.fonts/check/kerning_for_non_ligated_sequences</a>)</summary><div>
@@ -719,25 +686,25 @@ kavykawithkavykaaboveinvertedlow [code: legacy-long-names]
 
 * ⚠ **WARN** The following glyphs could not be reached by codepoint or substitution rules:
 
-	- uni1FCE0306
+	- uni03C5030803060300
+
+	- uni03B9030403140300
+
+	- uni03B9030803040300
+
+	- uni1FDD0306
 
 	- dasiavaria_macronmod
 
 	- uni1FCD0306
 
-	- uni03B1030603140301
+	- uni03B9030803060300
 
-	- uni1FCE02C9
+	- uni03C5030803040300
 
-	- dasiaoxia_macronmod
+	- uni03C5030803040301
 
-	- beta.alt1
-
-	- uni03B9030803040300
-
-	- uni03C5030603140301
-
-	- uni03C5030603130301 
+	- uni03C5030803060301 
 
 	- And 35 more.
 
@@ -873,16 +840,16 @@ But instead we have got:
 
 
 * ⚠ **WARN** Following glyphs differ greatly from Google Fonts version:
-	* uni1F57
-	* uni1F62
-	* uni1FA5
-	* uni1FF6
-	* uni1FA8
-	* uni1F9D
-	* uni1FA6
-	* uni1F8D
-	* uni1F64
-	* uni1F9A and 68 more.
+	* uni1F7D
+	* uni1F8F
+	* uni1F54
+	* xi
+	* uni1F56
+	* uni1FA3
+	* uni1FF7
+	* uni1FFC
+	* uni1FE7
+	* uni1FF6 and 68 more.
 
 Use -F or --full-lists to disable shortening of long lists.
 </div></details><details><summary>⚠ <b>WARN:</b> Is there kerning info for non-ligated sequences? (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/googlefonts.html#com.google.fonts/check/kerning_for_non_ligated_sequences">com.google.fonts/check/kerning_for_non_ligated_sequences</a>)</summary><div>
@@ -939,25 +906,25 @@ kavykawithkavykaaboveinvertedlow [code: legacy-long-names]
 
 * ⚠ **WARN** The following glyphs could not be reached by codepoint or substitution rules:
 
-	- uni1FCE0306
+	- uni03C5030803060300
+
+	- uni03B9030403140300
+
+	- uni03B9030803040300
+
+	- uni1FDD0306
 
 	- dasiavaria_macronmod
 
 	- uni1FCD0306
 
-	- uni03B1030603140301
+	- uni03B9030803060300
 
-	- uni1FCE02C9
+	- uni03C5030803040300
 
-	- dasiaoxia_macronmod
+	- uni03C5030803040301
 
-	- beta.alt1
-
-	- uni03B9030803040300
-
-	- uni03C5030603140301
-
-	- uni03C5030603130301 
+	- uni03C5030803060301 
 
 	- And 35 more.
 
@@ -1056,7 +1023,7 @@ Use -F or --full-lists to disable shortening of long lists. [code: found-colinea
 	* And 38 more.
 
 Use -F or --full-lists to disable shortening of long lists. [code: found-jaggy-segments]
-</div></details><br></div></details><details><summary><b>[24] NotoSerifDisplay-Italic.ttf</b></summary><div><details><summary>💔 <b>ERROR:</b> Check if the vertical metrics of a family are similar to the same family hosted on Google Fonts. (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/googlefonts.html#com.google.fonts/check/vertical_metrics_regressions">com.google.fonts/check/vertical_metrics_regressions</a>)</summary><div>
+</div></details><br></div></details><details><summary><b>[16] NotoSerifDisplay-Italic.ttf</b></summary><div><details><summary>💔 <b>ERROR:</b> Check if the vertical metrics of a family are similar to the same family hosted on Google Fonts. (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/googlefonts.html#com.google.fonts/check/vertical_metrics_regressions">com.google.fonts/check/vertical_metrics_regressions</a>)</summary><div>
 
 
 * 💔 **ERROR** Failed with TypeError: 'NoneType' object is not subscriptable
@@ -1074,43 +1041,12 @@ Use -F or --full-lists to disable shortening of long lists. [code: found-jaggy-s
 
 
 * 🔥 **FAIL** License file OFL.txt exists but NameID 13 (LICENSE DESCRIPTION) value on platform 3 (WINDOWS) is not specified for that. Value was: "This Font Software is licensed under the SIL Open Font License, Version 1.1. This Font Software is distributed on an "AS IS" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied. See the SIL Open Font License for the specific language, permissions and limitations governing your use of this Font Software." Must be changed to "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL" [code: wrong]
-</div></details><details><summary>🔥 <b>FAIL:</b> Is the Grid-fitting and Scan-conversion Procedure ('gasp') table set to optimize rendering? (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/googlefonts.html#com.google.fonts/check/gasp">com.google.fonts/check/gasp</a>)</summary><div>
-
-
-* 🔥 **FAIL** Font is missing the 'gasp' table. Try exporting the font with autohinting enabled.
-If you are dealing with an unhinted font, it can be fixed by running the fonts through the command 'gftools fix-nonhinting'
-GFTools is available at https://pypi.org/project/gftools/ [code: lacks-gasp]
 </div></details><details><summary>🔥 <b>FAIL:</b> Copyright notices match canonical pattern in fonts (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/googlefonts.html#com.google.fonts/check/font_copyright">com.google.fonts/check/font_copyright</a>)</summary><div>
 
 
 * 🔥 **FAIL** Name Table entry: Copyright notices should match a pattern similar to: "Copyright 2019 The Familyname Project Authors (git url)"
 But instead we have got:
 "Copyright 2016-2021 Google Inc. All Rights Reserved." [code: bad-notice-format]
-</div></details><details><summary>🔥 <b>FAIL:</b> Checking OS/2 fsSelection value. (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/googlefonts.html#com.google.fonts/check/fsselection">com.google.fonts/check/fsselection</a>)</summary><div>
-
-
-* 🔥 **FAIL** OS/2 fsSelection REGULAR bit should be unset. [code: bad-REGULAR]
-* 🔥 **FAIL** OS/2 fsSelection ITALIC bit should be set. [code: bad-ITALIC]
-</div></details><details><summary>🔥 <b>FAIL:</b> Checking head.macStyle value. (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/googlefonts.html#com.google.fonts/check/mac_style">com.google.fonts/check/mac_style</a>)</summary><div>
-
-
-* 🔥 **FAIL** head macStyle ITALIC bit should be set. [code: bad-ITALIC]
-</div></details><details><summary>🔥 <b>FAIL:</b> Check name table: FONT_FAMILY_NAME entries. (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/googlefonts.html#com.google.fonts/check/name/familyname">com.google.fonts/check/name/familyname</a>)</summary><div>
-
-
-* 🔥 **FAIL** Entry [FONT_FAMILY_NAME(1):WINDOWS(3)] on the "name" table: Expected "Noto Serif Display" but got "Noto Serif Display Italic". [code: mismatch]
-</div></details><details><summary>🔥 <b>FAIL:</b> Check name table: FONT_SUBFAMILY_NAME entries. (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/googlefonts.html#com.google.fonts/check/name/subfamilyname">com.google.fonts/check/name/subfamilyname</a>)</summary><div>
-
-
-* 🔥 **FAIL** SUBFAMILY_NAME for Win "Regular" must be "Italic" [code: bad-familyname]
-</div></details><details><summary>🔥 <b>FAIL:</b> Check name table: TYPOGRAPHIC_FAMILY_NAME entries. (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/googlefonts.html#com.google.fonts/check/name/typographicfamilyname">com.google.fonts/check/name/typographicfamilyname</a>)</summary><div>
-
-
-* 🔥 **FAIL** Font style is "Italic" and, for that reason, it is not expected to have a [TYPOGRAPHIC_FAMILY_NAME(16):WINDOWS(3)] entry! [code: ribbi]
-</div></details><details><summary>🔥 <b>FAIL:</b> Font enables smart dropout control in "prep" table instructions? (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/googlefonts.html#com.google.fonts/check/smart_dropout">com.google.fonts/check/smart_dropout</a>)</summary><div>
-
-
-* 🔥 **FAIL** The 'prep' table does not contain TrueType instructions enabling smart dropout control. To fix, export the font with autohinting enabled, or run ttfautohint on the font, or run the `gftools fix-nonhinting` script. [code: lacks-smart-dropout]
 </div></details><details><summary>🔥 <b>FAIL:</b> OS/2.fsSelection bit 7 (USE_TYPO_METRICS) is set in all fonts. (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/googlefonts.html#com.google.fonts/check/os2/use_typo_metrics">com.google.fonts/check/os2/use_typo_metrics</a>)</summary><div>
 
 
@@ -1124,16 +1060,16 @@ But instead we have got:
 
 
 * ⚠ **WARN** Following glyphs differ greatly from Google Fonts version:
-	* uni1F57
-	* uni0424
-	* uni0278
-	* uni1F62
-	* uni1F92
-	* uni1FA5
-	* uni1FC2
-	* uni1D72
-	* uni1FF6
-	* uni1FA8 and 100 more.
+	* uni1F7D
+	* uni1F8F
+	* uni03F1
+	* uni03D7
+	* uni03D6
+	* uniAB38
+	* uni1F93
+	* uni1D6F
+	* uni1F7B
+	* xi and 100 more.
 
 Use -F or --full-lists to disable shortening of long lists.
 </div></details><details><summary>⚠ <b>WARN:</b> Is there kerning info for non-ligated sequences? (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/googlefonts.html#com.google.fonts/check/kerning_for_non_ligated_sequences">com.google.fonts/check/kerning_for_non_ligated_sequences</a>)</summary><div>
@@ -1162,13 +1098,6 @@ Use -F or --full-lists to disable shortening of long lists.
 	- f.ss02 + l 
 
 	- And l + f.ss02 [code: lacks-kern-info]
-</div></details><details><summary>⚠ <b>WARN:</b> Combined length of family and style must not exceed 27 characters. (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/googlefonts.html#com.google.fonts/check/name/family_and_style_max_length">com.google.fonts/check/name/family_and_style_max_length</a>)</summary><div>
-
-
-* ⚠ **WARN** The combined length of family and style exceeds 27 chars in the following 'WINDOWS' entries:
- FONT_FAMILY_NAME = 'Noto Serif Display Italic' / SUBFAMILY_NAME = 'Regular'
-
-Please take a look at the conversation at https://github.com/googlefonts/fontbakery/issues/2179 in order to understand the reasoning behind these name table records max-length criteria. [code: too-long]
 </div></details><details><summary>⚠ <b>WARN:</b> Ensure Stylistic Sets have description. (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/googlefonts.html#com.google.fonts/check/stylisticset_description">com.google.fonts/check/stylisticset_description</a>)</summary><div>
 
 
@@ -1190,25 +1119,25 @@ kavykawithkavykaaboveinvertedlow [code: legacy-long-names]
 
 * ⚠ **WARN** The following glyphs could not be reached by codepoint or substitution rules:
 
-	- uni1FCE0306
+	- uni03C5030803060300
+
+	- uni03B9030403140300
+
+	- uni03B9030803040300
+
+	- uni1FDD0306
 
 	- dasiavaria_macronmod
 
 	- uni1FCD0306
 
-	- uni03B1030603140301
+	- uni03B9030803060300
 
-	- uni1FCE02C9
+	- uni03C5030803040300
 
-	- dasiaoxia_macronmod
+	- uni03C5030803040301
 
-	- beta.alt1
-
-	- uni03B9030803040300
-
-	- uni03C5030603140301
-
-	- uni03C5030603130301 
+	- uni03C5030803060301 
 
 	- And 35 more.
 
@@ -1344,16 +1273,16 @@ But instead we have got:
 
 
 * ⚠ **WARN** Following glyphs differ greatly from Google Fonts version:
-	* uni1F57
-	* uni0424
-	* uni1F62
-	* uni1FA5
-	* uni1FF6
-	* uni1FA8
-	* uni1F9D
-	* uni1FA6
-	* uni1F8D
-	* uni1F64 and 86 more.
+	* uni1F7D
+	* uni1F8F
+	* uni03F1
+	* uni1F54
+	* uni03D6
+	* uni1D6F
+	* uni1F7B
+	* xi
+	* uni1F56
+	* upsilontonos and 86 more.
 
 Use -F or --full-lists to disable shortening of long lists.
 </div></details><details><summary>⚠ <b>WARN:</b> Is there kerning info for non-ligated sequences? (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/googlefonts.html#com.google.fonts/check/kerning_for_non_ligated_sequences">com.google.fonts/check/kerning_for_non_ligated_sequences</a>)</summary><div>
@@ -1410,25 +1339,25 @@ kavykawithkavykaaboveinvertedlow [code: legacy-long-names]
 
 * ⚠ **WARN** The following glyphs could not be reached by codepoint or substitution rules:
 
-	- uni1FCE0306
+	- uni03C5030803060300
+
+	- uni03B9030403140300
+
+	- uni03B9030803040300
+
+	- uni1FDD0306
 
 	- dasiavaria_macronmod
 
 	- uni1FCD0306
 
-	- uni03B1030603140301
+	- uni03B9030803060300
 
-	- uni1FCE02C9
+	- uni03C5030803040300
 
-	- dasiaoxia_macronmod
+	- uni03C5030803040301
 
-	- beta.alt1
-
-	- uni03B9030803040300
-
-	- uni03C5030603140301
-
-	- uni03C5030603130301 
+	- uni03C5030803060301 
 
 	- And 35 more.
 
@@ -1564,16 +1493,16 @@ But instead we have got:
 
 
 * ⚠ **WARN** Following glyphs differ greatly from Google Fonts version:
-	* pi
-	* uni1F57
-	* uni0424
-	* uni0278
-	* uni1F62
-	* uni1F92
-	* uni1FA5
-	* uni1FC2
-	* uni1D72
-	* uni1FF6 and 121 more.
+	* uni1F7D
+	* uni1F8F
+	* uni03F1
+	* uni1F54
+	* uni03D7
+	* uni03D6
+	* uniAB38
+	* uni1F93
+	* uni1F85
+	* uni1D6F and 121 more.
 
 Use -F or --full-lists to disable shortening of long lists.
 </div></details><details><summary>⚠ <b>WARN:</b> Is there kerning info for non-ligated sequences? (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/googlefonts.html#com.google.fonts/check/kerning_for_non_ligated_sequences">com.google.fonts/check/kerning_for_non_ligated_sequences</a>)</summary><div>
@@ -1630,25 +1559,25 @@ kavykawithkavykaaboveinvertedlow [code: legacy-long-names]
 
 * ⚠ **WARN** The following glyphs could not be reached by codepoint or substitution rules:
 
-	- uni1FCE0306
+	- uni03C5030803060300
+
+	- uni03B9030403140300
+
+	- uni03B9030803040300
+
+	- uni1FDD0306
 
 	- dasiavaria_macronmod
 
 	- uni1FCD0306
 
-	- uni03B1030603140301
+	- uni03B9030803060300
 
-	- uni1FCE02C9
+	- uni03C5030803040300
 
-	- dasiaoxia_macronmod
+	- uni03C5030803040301
 
-	- beta.alt1
-
-	- uni03B9030803040300
-
-	- uni03C5030603140301
-
-	- uni03C5030603130301 
+	- uni03C5030803060301 
 
 	- And 35 more.
 
@@ -1784,16 +1713,16 @@ But instead we have got:
 
 
 * ⚠ **WARN** Following glyphs differ greatly from Google Fonts version:
-	* pi
-	* uni1F57
-	* uni0424
-	* four.lf
-	* uni0278
-	* uni1F62
-	* uni1FE0
-	* uni1F92
-	* uni1FA5
-	* uni1FC2 and 145 more.
+	* uni1F7D
+	* uni1F8F
+	* uni03BC
+	* uni03F1
+	* uni1F54
+	* uni03D7
+	* uniAB38
+	* uni1F93
+	* uni1F85
+	* uni03C5030803040300 and 145 more.
 
 Use -F or --full-lists to disable shortening of long lists.
 </div></details><details><summary>⚠ <b>WARN:</b> Is there kerning info for non-ligated sequences? (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/googlefonts.html#com.google.fonts/check/kerning_for_non_ligated_sequences">com.google.fonts/check/kerning_for_non_ligated_sequences</a>)</summary><div>
@@ -1850,25 +1779,25 @@ kavykawithkavykaaboveinvertedlow [code: legacy-long-names]
 
 * ⚠ **WARN** The following glyphs could not be reached by codepoint or substitution rules:
 
-	- uni1FCE0306
+	- uni03C5030803060300
+
+	- uni03B9030403140300
+
+	- uni03B9030803040300
+
+	- uni1FDD0306
 
 	- dasiavaria_macronmod
 
 	- uni1FCD0306
 
-	- uni03B1030603140301
+	- uni03B9030803060300
 
-	- uni1FCE02C9
+	- uni03C5030803040300
 
-	- dasiaoxia_macronmod
+	- uni03C5030803040301
 
-	- beta.alt1
-
-	- uni03B9030803040300
-
-	- uni03C5030603140301
-
-	- uni03C5030603130301 
+	- uni03C5030803060301 
 
 	- And 35 more.
 
@@ -2004,16 +1933,16 @@ But instead we have got:
 
 
 * ⚠ **WARN** Following glyphs differ greatly from Google Fonts version:
-	* uni1F57
-	* uni1F62
-	* uni1FA5
-	* uni1FF6
-	* uni1FA8
-	* uni1F9D
-	* uni1FA6
-	* uni1F8D
-	* uni1F64
-	* uni1F9A and 65 more.
+	* uni1F7D
+	* uni1F8F
+	* uni1F54
+	* xi
+	* uni1F56
+	* uni1FA3
+	* uni1FF7
+	* uni1FFC
+	* uni1FE7
+	* uni1FF6 and 65 more.
 
 Use -F or --full-lists to disable shortening of long lists.
 </div></details><details><summary>⚠ <b>WARN:</b> Is there kerning info for non-ligated sequences? (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/googlefonts.html#com.google.fonts/check/kerning_for_non_ligated_sequences">com.google.fonts/check/kerning_for_non_ligated_sequences</a>)</summary><div>
@@ -2070,25 +1999,25 @@ kavykawithkavykaaboveinvertedlow [code: legacy-long-names]
 
 * ⚠ **WARN** The following glyphs could not be reached by codepoint or substitution rules:
 
-	- uni1FCE0306
+	- uni03C5030803060300
+
+	- uni03B9030403140300
+
+	- uni03B9030803040300
+
+	- uni1FDD0306
 
 	- dasiavaria_macronmod
 
 	- uni1FCD0306
 
-	- uni03B1030603140301
+	- uni03B9030803060300
 
-	- uni1FCE02C9
+	- uni03C5030803040300
 
-	- dasiaoxia_macronmod
+	- uni03C5030803040301
 
-	- beta.alt1
-
-	- uni03B9030803040300
-
-	- uni03C5030603140301
-
-	- uni03C5030603130301 
+	- uni03C5030803060301 
 
 	- And 35 more.
 
@@ -2291,25 +2220,25 @@ kavykawithkavykaaboveinvertedlow [code: legacy-long-names]
 
 * ⚠ **WARN** The following glyphs could not be reached by codepoint or substitution rules:
 
-	- uni1FCE0306
+	- uni03C5030803060300
+
+	- uni03B9030403140300
+
+	- uni03B9030803040300
+
+	- uni1FDD0306
 
 	- dasiavaria_macronmod
 
 	- uni1FCD0306
 
-	- uni03B1030603140301
+	- uni03B9030803060300
 
-	- uni1FCE02C9
+	- uni03C5030803040300
 
-	- dasiaoxia_macronmod
+	- uni03C5030803040301
 
-	- beta.alt1
-
-	- uni03B9030803040300
-
-	- uni03C5030603140301
-
-	- uni03C5030603130301 
+	- uni03C5030803060301 
 
 	- And 35 more.
 
@@ -2325,8 +2254,8 @@ Use -F or --full-lists to disable shortening of long lists.
 
 | 💔 ERROR | 🔥 FAIL | ⚠ WARN | 💤 SKIP | ℹ INFO | 🍞 PASS | 🔎 DEBUG |
 |:-----:|:----:|:----:|:----:|:----:|:----:|:----:|
-| 11 | 81 | 113 | 1229 | 76 | 925 | 0 |
-| 0% | 3% | 5% | 50% | 3% | 38% | 0% |
+| 11 | 67 | 112 | 1229 | 78 | 938 | 0 |
+| 0% | 3% | 5% | 50% | 3% | 39% | 0% |
 
 **Note:** The following loglevels were omitted in this report:
 * **SKIP**

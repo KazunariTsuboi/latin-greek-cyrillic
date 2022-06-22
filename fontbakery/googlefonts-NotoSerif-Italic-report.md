@@ -20,7 +20,7 @@ Use -F or --full-lists to disable shortening of long lists. [code: missing-roman
 </div></details><details><summary>🔥 <b>FAIL:</b> Verify that each group of fonts with the same nameID 1 has maximum of 4 fonts (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/name.html#com.adobe.fonts/check/family/max_4_fonts_per_family_name">com.adobe.fonts/check/family/max_4_fonts_per_family_name</a>)</summary><div>
 
 
-* 🔥 **FAIL** Family 'Noto Serif' has 5 fonts (should be 4 or fewer). [code: too-many]
+* 🔥 **FAIL** Family 'Noto Serif' has 8 fonts (should be 4 or fewer). [code: too-many]
 </div></details><br></div></details><details><summary><b>[20] NotoSerif-ItalicMM[wght].ttf</b></summary><div><details><summary>💔 <b>ERROR:</b> STAT table has Axis Value tables? (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/stat.html#com.adobe.fonts/check/stat_has_axis_value_tables">com.adobe.fonts/check/stat_has_axis_value_tables</a>)</summary><div>
 
 
@@ -130,25 +130,25 @@ kavykawithkavykaaboveinvertedlow [code: legacy-long-names]
 
 * ⚠ **WARN** The following glyphs could not be reached by codepoint or substitution rules:
 
+	- uni03C5030403140300
+
+	- uni03C5030803040300
+
+	- psilioxia_macronmod
+
+	- uni03C5030803060300
+
+	- uni03B1030403140301
+
+	- uni03C5030403130301
+
 	- uni03B1030603140300
 
-	- uni1FCD0306
-
-	- uni1FDE0306
-
-	- uni03C5030803040301
-
-	- uni03B9030603140300
-
-	- uni03B9030803040300
-
-	- uni03B9030603130301
+	- psilivaria_macronmod
 
 	- uni03C5030803060301
 
-	- uni03C5030603140301
-
-	- uni03C5030403140301 
+	- uni03B9030603140300 
 
 	- And 31 more.
 
@@ -244,25 +244,25 @@ kavykawithkavykaaboveinvertedlow [code: legacy-long-names]
 
 * ⚠ **WARN** The following glyphs could not be reached by codepoint or substitution rules:
 
+	- uni03C5030403140300
+
+	- uni03C5030803040300
+
+	- psilioxia_macronmod
+
+	- uni03C5030803060300
+
+	- uni03B1030403140301
+
+	- uni03C5030403130301
+
 	- uni03B1030603140300
 
-	- uni1FCD0306
-
-	- uni1FDE0306
-
-	- uni03C5030803040301
-
-	- uni03B9030603140300
-
-	- uni03B9030803040300
-
-	- uni03B9030603130301
+	- psilivaria_macronmod
 
 	- uni03C5030803060301
 
-	- uni03C5030603140301
-
-	- uni03C5030403140301 
+	- uni03B9030603140300 
 
 	- And 31 more.
 
@@ -333,25 +333,25 @@ kavykawithkavykaaboveinvertedlow [code: legacy-long-names]
 
 * ⚠ **WARN** The following glyphs could not be reached by codepoint or substitution rules:
 
+	- uni03C5030403140300
+
+	- uni03C5030803040300
+
+	- psilioxia_macronmod
+
+	- uni03C5030803060300
+
+	- uni03B1030403140301
+
+	- uni03C5030403130301
+
 	- uni03B1030603140300
 
-	- uni1FCD0306
-
-	- uni1FDE0306
-
-	- uni03C5030803040301
-
-	- uni03B9030603140300
-
-	- uni03B9030803040300
-
-	- uni03B9030603130301
+	- psilivaria_macronmod
 
 	- uni03C5030803060301
 
-	- uni03C5030603140301
-
-	- uni03C5030403140301 
+	- uni03B9030603140300 
 
 	- And 31 more.
 
@@ -545,25 +545,25 @@ kavykawithkavykaaboveinvertedlow [code: legacy-long-names]
 
 * ⚠ **WARN** The following glyphs could not be reached by codepoint or substitution rules:
 
+	- uni03C5030403140300
+
+	- uni03C5030803040300
+
+	- psilioxia_macronmod
+
+	- uni03C5030803060300
+
+	- uni03B1030403140301
+
+	- uni03C5030403130301
+
 	- uni03B1030603140300
 
-	- uni1FCD0306
-
-	- uni1FDE0306
-
-	- uni03C5030803040301
-
-	- uni03B9030603140300
-
-	- uni03B9030803040300
-
-	- uni03B9030603130301
+	- psilivaria_macronmod
 
 	- uni03C5030803060301
 
-	- uni03C5030603140301
-
-	- uni03C5030403140301 
+	- uni03B9030603140300 
 
 	- And 31 more.
 
@@ -662,7 +662,7 @@ Use -F or --full-lists to disable shortening of long lists. [code: found-colinea
 	* And 25 more.
 
 Use -F or --full-lists to disable shortening of long lists. [code: found-jaggy-segments]
-</div></details><br></div></details><details><summary><b>[22] NotoSerif-Bold.ttf</b></summary><div><details><summary>🔥 <b>FAIL:</b> Check Google Fonts glyph coverage. (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/googlefonts.html#com.google.fonts/check/glyph_coverage">com.google.fonts/check/glyph_coverage</a>)</summary><div>
+</div></details><br></div></details><details><summary><b>[15] NotoSerif-Bold.ttf</b></summary><div><details><summary>🔥 <b>FAIL:</b> Check Google Fonts glyph coverage. (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/googlefonts.html#com.google.fonts/check/glyph_coverage">com.google.fonts/check/glyph_coverage</a>)</summary><div>
 
 
 * 🔥 **FAIL** Missing required codepoints:
@@ -673,37 +673,6 @@ Use -F or --full-lists to disable shortening of long lists. [code: found-jaggy-s
 
 
 * 🔥 **FAIL** License file OFL.txt exists but NameID 13 (LICENSE DESCRIPTION) value on platform 3 (WINDOWS) is not specified for that. Value was: "This Font Software is licensed under the SIL Open Font License, Version 1.1. This Font Software is distributed on an "AS IS" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied. See the SIL Open Font License for the specific language, permissions and limitations governing your use of this Font Software." Must be changed to "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL" [code: wrong]
-</div></details><details><summary>🔥 <b>FAIL:</b> Is the Grid-fitting and Scan-conversion Procedure ('gasp') table set to optimize rendering? (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/googlefonts.html#com.google.fonts/check/gasp">com.google.fonts/check/gasp</a>)</summary><div>
-
-
-* 🔥 **FAIL** Font is missing the 'gasp' table. Try exporting the font with autohinting enabled.
-If you are dealing with an unhinted font, it can be fixed by running the fonts through the command 'gftools fix-nonhinting'
-GFTools is available at https://pypi.org/project/gftools/ [code: lacks-gasp]
-</div></details><details><summary>🔥 <b>FAIL:</b> Checking OS/2 fsSelection value. (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/googlefonts.html#com.google.fonts/check/fsselection">com.google.fonts/check/fsselection</a>)</summary><div>
-
-
-* 🔥 **FAIL** OS/2 fsSelection REGULAR bit should be unset. [code: bad-REGULAR]
-* 🔥 **FAIL** OS/2 fsSelection BOLD bit should be set. [code: bad-BOLD]
-</div></details><details><summary>🔥 <b>FAIL:</b> Checking head.macStyle value. (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/googlefonts.html#com.google.fonts/check/mac_style">com.google.fonts/check/mac_style</a>)</summary><div>
-
-
-* 🔥 **FAIL** head macStyle BOLD bit should be set. [code: bad-BOLD]
-</div></details><details><summary>🔥 <b>FAIL:</b> Check name table: FONT_FAMILY_NAME entries. (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/googlefonts.html#com.google.fonts/check/name/familyname">com.google.fonts/check/name/familyname</a>)</summary><div>
-
-
-* 🔥 **FAIL** Entry [FONT_FAMILY_NAME(1):WINDOWS(3)] on the "name" table: Expected "Noto Serif" but got "Noto Serif Bold". [code: mismatch]
-</div></details><details><summary>🔥 <b>FAIL:</b> Check name table: FONT_SUBFAMILY_NAME entries. (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/googlefonts.html#com.google.fonts/check/name/subfamilyname">com.google.fonts/check/name/subfamilyname</a>)</summary><div>
-
-
-* 🔥 **FAIL** SUBFAMILY_NAME for Win "Regular" must be "Bold" [code: bad-familyname]
-</div></details><details><summary>🔥 <b>FAIL:</b> Check name table: TYPOGRAPHIC_FAMILY_NAME entries. (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/googlefonts.html#com.google.fonts/check/name/typographicfamilyname">com.google.fonts/check/name/typographicfamilyname</a>)</summary><div>
-
-
-* 🔥 **FAIL** Font style is "Bold" and, for that reason, it is not expected to have a [TYPOGRAPHIC_FAMILY_NAME(16):WINDOWS(3)] entry! [code: ribbi]
-</div></details><details><summary>🔥 <b>FAIL:</b> Font enables smart dropout control in "prep" table instructions? (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/googlefonts.html#com.google.fonts/check/smart_dropout">com.google.fonts/check/smart_dropout</a>)</summary><div>
-
-
-* 🔥 **FAIL** The 'prep' table does not contain TrueType instructions enabling smart dropout control. To fix, export the font with autohinting enabled, or run ttfautohint on the font, or run the `gftools fix-nonhinting` script. [code: lacks-smart-dropout]
 </div></details><details><summary>🔥 <b>FAIL:</b> OS/2.fsSelection bit 7 (USE_TYPO_METRICS) is set in all fonts. (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/googlefonts.html#com.google.fonts/check/os2/use_typo_metrics">com.google.fonts/check/os2/use_typo_metrics</a>)</summary><div>
 
 
@@ -717,16 +686,16 @@ GFTools is available at https://pypi.org/project/gftools/ [code: lacks-gasp]
 
 
 * ⚠ **WARN** Following glyphs differ greatly from Google Fonts version:
-	* uni1D5E
-	* uni1F83
-	* uni1D33
-	* rho
-	* uni1FD6
-	* uni1F45
-	* uni1DA8
-	* uni1FCE
-	* uni1F0F
-	* uni1F0E and 380 more.
+	* uni1D7F
+	* uniFE21
+	* uni0364
+	* uni1FB7
+	* uni01C0
+	* uni1F68
+	* uni1D7E
+	* uni1D43
+	* uni1D4F
+	* uni1FB2 and 380 more.
 
 Use -F or --full-lists to disable shortening of long lists.
 </div></details><details><summary>⚠ <b>WARN:</b> Is there kerning info for non-ligated sequences? (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/googlefonts.html#com.google.fonts/check/kerning_for_non_ligated_sequences">com.google.fonts/check/kerning_for_non_ligated_sequences</a>)</summary><div>
@@ -764,25 +733,25 @@ kavykawithkavykaaboveinvertedlow [code: legacy-long-names]
 
 * ⚠ **WARN** The following glyphs could not be reached by codepoint or substitution rules:
 
+	- uni03C5030403140300
+
+	- uni03C5030803040300
+
+	- psilioxia_macronmod
+
+	- uni03C5030803060300
+
+	- uni03B1030403140301
+
+	- uni03C5030403130301
+
 	- uni03B1030603140300
 
-	- uni1FCD0306
-
-	- uni1FDE0306
-
-	- uni03C5030803040301
-
-	- uni03B9030603140300
-
-	- uni03B9030803040300
-
-	- uni03B9030603130301
+	- psilivaria_macronmod
 
 	- uni03C5030803060301
 
-	- uni03C5030603140301
-
-	- uni03C5030403140301 
+	- uni03B9030603140300 
 
 	- And 31 more.
 
@@ -909,7 +878,7 @@ Use -F or --full-lists to disable shortening of long lists. [code: found-jaggy-s
 	* And 44 more.
 
 Use -F or --full-lists to disable shortening of long lists. [code: found-semi-vertical]
-</div></details><br></div></details><details><summary><b>[22] NotoSerif-BoldItalic.ttf</b></summary><div><details><summary>🔥 <b>FAIL:</b> Check Google Fonts glyph coverage. (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/googlefonts.html#com.google.fonts/check/glyph_coverage">com.google.fonts/check/glyph_coverage</a>)</summary><div>
+</div></details><br></div></details><details><summary><b>[14] NotoSerif-BoldItalic.ttf</b></summary><div><details><summary>🔥 <b>FAIL:</b> Check Google Fonts glyph coverage. (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/googlefonts.html#com.google.fonts/check/glyph_coverage">com.google.fonts/check/glyph_coverage</a>)</summary><div>
 
 
 * 🔥 **FAIL** Missing required codepoints:
@@ -920,39 +889,6 @@ Use -F or --full-lists to disable shortening of long lists. [code: found-semi-ve
 
 
 * 🔥 **FAIL** License file OFL.txt exists but NameID 13 (LICENSE DESCRIPTION) value on platform 3 (WINDOWS) is not specified for that. Value was: "This Font Software is licensed under the SIL Open Font License, Version 1.1. This Font Software is distributed on an "AS IS" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied. See the SIL Open Font License for the specific language, permissions and limitations governing your use of this Font Software." Must be changed to "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL" [code: wrong]
-</div></details><details><summary>🔥 <b>FAIL:</b> Is the Grid-fitting and Scan-conversion Procedure ('gasp') table set to optimize rendering? (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/googlefonts.html#com.google.fonts/check/gasp">com.google.fonts/check/gasp</a>)</summary><div>
-
-
-* 🔥 **FAIL** Font is missing the 'gasp' table. Try exporting the font with autohinting enabled.
-If you are dealing with an unhinted font, it can be fixed by running the fonts through the command 'gftools fix-nonhinting'
-GFTools is available at https://pypi.org/project/gftools/ [code: lacks-gasp]
-</div></details><details><summary>🔥 <b>FAIL:</b> Checking OS/2 fsSelection value. (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/googlefonts.html#com.google.fonts/check/fsselection">com.google.fonts/check/fsselection</a>)</summary><div>
-
-
-* 🔥 **FAIL** OS/2 fsSelection REGULAR bit should be unset. [code: bad-REGULAR]
-* 🔥 **FAIL** OS/2 fsSelection ITALIC bit should be set. [code: bad-ITALIC]
-* 🔥 **FAIL** OS/2 fsSelection BOLD bit should be set. [code: bad-BOLD]
-</div></details><details><summary>🔥 <b>FAIL:</b> Checking head.macStyle value. (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/googlefonts.html#com.google.fonts/check/mac_style">com.google.fonts/check/mac_style</a>)</summary><div>
-
-
-* 🔥 **FAIL** head macStyle ITALIC bit should be set. [code: bad-ITALIC]
-* 🔥 **FAIL** head macStyle BOLD bit should be set. [code: bad-BOLD]
-</div></details><details><summary>🔥 <b>FAIL:</b> Check name table: FONT_FAMILY_NAME entries. (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/googlefonts.html#com.google.fonts/check/name/familyname">com.google.fonts/check/name/familyname</a>)</summary><div>
-
-
-* 🔥 **FAIL** Entry [FONT_FAMILY_NAME(1):WINDOWS(3)] on the "name" table: Expected "Noto Serif" but got "Noto Serif Bold Italic". [code: mismatch]
-</div></details><details><summary>🔥 <b>FAIL:</b> Check name table: FONT_SUBFAMILY_NAME entries. (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/googlefonts.html#com.google.fonts/check/name/subfamilyname">com.google.fonts/check/name/subfamilyname</a>)</summary><div>
-
-
-* 🔥 **FAIL** SUBFAMILY_NAME for Win "Regular" must be "Bold Italic" [code: bad-familyname]
-</div></details><details><summary>🔥 <b>FAIL:</b> Check name table: TYPOGRAPHIC_FAMILY_NAME entries. (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/googlefonts.html#com.google.fonts/check/name/typographicfamilyname">com.google.fonts/check/name/typographicfamilyname</a>)</summary><div>
-
-
-* 🔥 **FAIL** Font style is "BoldItalic" and, for that reason, it is not expected to have a [TYPOGRAPHIC_FAMILY_NAME(16):WINDOWS(3)] entry! [code: ribbi]
-</div></details><details><summary>🔥 <b>FAIL:</b> Font enables smart dropout control in "prep" table instructions? (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/googlefonts.html#com.google.fonts/check/smart_dropout">com.google.fonts/check/smart_dropout</a>)</summary><div>
-
-
-* 🔥 **FAIL** The 'prep' table does not contain TrueType instructions enabling smart dropout control. To fix, export the font with autohinting enabled, or run ttfautohint on the font, or run the `gftools fix-nonhinting` script. [code: lacks-smart-dropout]
 </div></details><details><summary>🔥 <b>FAIL:</b> OS/2.fsSelection bit 7 (USE_TYPO_METRICS) is set in all fonts. (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/googlefonts.html#com.google.fonts/check/os2/use_typo_metrics">com.google.fonts/check/os2/use_typo_metrics</a>)</summary><div>
 
 
@@ -966,16 +902,16 @@ GFTools is available at https://pypi.org/project/gftools/ [code: lacks-gasp]
 
 
 * ⚠ **WARN** Following glyphs differ greatly from Google Fonts version:
-	* uni04F1
-	* uni1D5E
-	* uni1F83
-	* uni1D33
-	* rho
-	* uni1FD6
-	* uni1F45
-	* uni1DA8
-	* uni1FCE
-	* uni04D3 and 438 more.
+	* uni0451
+	* uni1E97
+	* uni1D7F
+	* uniFE21
+	* uni0364
+	* uni1FB7
+	* uni1F68
+	* uni1D7E
+	* uni1D43
+	* uni1D4F and 438 more.
 
 Use -F or --full-lists to disable shortening of long lists.
 </div></details><details><summary>⚠ <b>WARN:</b> Is there kerning info for non-ligated sequences? (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/googlefonts.html#com.google.fonts/check/kerning_for_non_ligated_sequences">com.google.fonts/check/kerning_for_non_ligated_sequences</a>)</summary><div>
@@ -1004,13 +940,6 @@ Use -F or --full-lists to disable shortening of long lists.
 	- f.ss02 + l 
 
 	- And l + f.ss02 [code: lacks-kern-info]
-</div></details><details><summary>⚠ <b>WARN:</b> Combined length of family and style must not exceed 27 characters. (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/googlefonts.html#com.google.fonts/check/name/family_and_style_max_length">com.google.fonts/check/name/family_and_style_max_length</a>)</summary><div>
-
-
-* ⚠ **WARN** The combined length of family and style exceeds 27 chars in the following 'WINDOWS' entries:
- FONT_FAMILY_NAME = 'Noto Serif Bold Italic' / SUBFAMILY_NAME = 'Regular'
-
-Please take a look at the conversation at https://github.com/googlefonts/fontbakery/issues/2179 in order to understand the reasoning behind these name table records max-length criteria. [code: too-long]
 </div></details><details><summary>⚠ <b>WARN:</b> Ensure Stylistic Sets have description. (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/googlefonts.html#com.google.fonts/check/stylisticset_description">com.google.fonts/check/stylisticset_description</a>)</summary><div>
 
 
@@ -1032,25 +961,25 @@ kavykawithkavykaaboveinvertedlow [code: legacy-long-names]
 
 * ⚠ **WARN** The following glyphs could not be reached by codepoint or substitution rules:
 
+	- uni03C5030403140300
+
+	- uni03C5030803040300
+
+	- psilioxia_macronmod
+
+	- uni03C5030803060300
+
+	- uni03B1030403140301
+
+	- uni03C5030403130301
+
 	- uni03B1030603140300
 
-	- uni1FCD0306
-
-	- uni1FDE0306
-
-	- uni03C5030803040301
-
-	- uni03B9030603140300
-
-	- uni03B9030803040300
-
-	- uni03B9030603130301
+	- psilivaria_macronmod
 
 	- uni03C5030803060301
 
-	- uni03C5030603140301
-
-	- uni03C5030403140301 
+	- uni03B9030603140300 
 
 	- And 31 more.
 
@@ -1204,25 +1133,25 @@ kavykawithkavykaaboveinvertedlow [code: legacy-long-names]
 
 * ⚠ **WARN** The following glyphs could not be reached by codepoint or substitution rules:
 
+	- uni03C5030403140300
+
+	- uni03C5030803040300
+
+	- psilioxia_macronmod
+
+	- uni03C5030803060300
+
+	- uni03B1030403140301
+
+	- uni03C5030403130301
+
 	- uni03B1030603140300
 
-	- uni1FCD0306
-
-	- uni1FDE0306
-
-	- uni03C5030803040301
-
-	- uni03B9030603140300
-
-	- uni03B9030803040300
-
-	- uni03B9030603130301
+	- psilivaria_macronmod
 
 	- uni03C5030803060301
 
-	- uni03C5030603140301
-
-	- uni03C5030403140301 
+	- uni03B9030603140300 
 
 	- And 31 more.
 
@@ -1416,25 +1345,25 @@ kavykawithkavykaaboveinvertedlow [code: legacy-long-names]
 
 * ⚠ **WARN** The following glyphs could not be reached by codepoint or substitution rules:
 
+	- uni03C5030403140300
+
+	- uni03C5030803040300
+
+	- psilioxia_macronmod
+
+	- uni03C5030803060300
+
+	- uni03B1030403140301
+
+	- uni03C5030403130301
+
 	- uni03B1030603140300
 
-	- uni1FCD0306
-
-	- uni1FDE0306
-
-	- uni03C5030803040301
-
-	- uni03B9030603140300
-
-	- uni03B9030803040300
-
-	- uni03B9030603130301
+	- psilivaria_macronmod
 
 	- uni03C5030803060301
 
-	- uni03C5030603140301
-
-	- uni03C5030403140301 
+	- uni03B9030603140300 
 
 	- And 31 more.
 
@@ -1595,25 +1524,25 @@ kavykawithkavykaaboveinvertedlow [code: legacy-long-names]
 
 * ⚠ **WARN** The following glyphs could not be reached by codepoint or substitution rules:
 
+	- uni03C5030403140300
+
+	- uni03C5030803040300
+
+	- psilioxia_macronmod
+
+	- uni03C5030803060300
+
+	- uni03B1030403140301
+
+	- uni03C5030403130301
+
 	- uni03B1030603140300
 
-	- uni1FCD0306
-
-	- uni1FDE0306
-
-	- uni03C5030803040301
-
-	- uni03B9030603140300
-
-	- uni03B9030803040300
-
-	- uni03B9030603130301
+	- psilivaria_macronmod
 
 	- uni03C5030803060301
 
-	- uni03C5030603140301
-
-	- uni03C5030403140301 
+	- uni03B9030603140300 
 
 	- And 31 more.
 
@@ -1795,25 +1724,25 @@ kavykawithkavykaaboveinvertedlow [code: legacy-long-names]
 
 * ⚠ **WARN** The following glyphs could not be reached by codepoint or substitution rules:
 
+	- uni03C5030403140300
+
+	- uni03C5030803040300
+
+	- psilioxia_macronmod
+
+	- uni03C5030803060300
+
+	- uni03B1030403140301
+
+	- uni03C5030403130301
+
 	- uni03B1030603140300
 
-	- uni1FCD0306
-
-	- uni1FDE0306
-
-	- uni03C5030803040301
-
-	- uni03B9030603140300
-
-	- uni03B9030803040300
-
-	- uni03B9030603130301
+	- psilivaria_macronmod
 
 	- uni03C5030803060301
 
-	- uni03C5030603140301
-
-	- uni03C5030403140301 
+	- uni03B9030603140300 
 
 	- And 31 more.
 
@@ -1904,7 +1833,7 @@ Use -F or --full-lists to disable shortening of long lists. [code: found-colinea
 	* uniA737 (U+A737): B<<334.0,119.5>-<336.0,132.0>-<339.0,145.0>>/B<<339.0,145.0>-<301.0,70.0>-<252.0,30.0>> = 13.87519629558255 
 
 	* And uniA7A0 (U+A7A0): L<<650.0,354.0>--<492.0,319.0>>/L<<492.0,319.0>--<645.0,319.0>> = 12.49040571790919 [code: found-jaggy-segments]
-</div></details><br></div></details><details><summary><b>[21] NotoSerif-Italic.ttf</b></summary><div><details><summary>🔥 <b>FAIL:</b> Check Google Fonts glyph coverage. (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/googlefonts.html#com.google.fonts/check/glyph_coverage">com.google.fonts/check/glyph_coverage</a>)</summary><div>
+</div></details><br></div></details><details><summary><b>[14] NotoSerif-Italic.ttf</b></summary><div><details><summary>🔥 <b>FAIL:</b> Check Google Fonts glyph coverage. (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/googlefonts.html#com.google.fonts/check/glyph_coverage">com.google.fonts/check/glyph_coverage</a>)</summary><div>
 
 
 * 🔥 **FAIL** Missing required codepoints:
@@ -1915,37 +1844,6 @@ Use -F or --full-lists to disable shortening of long lists. [code: found-colinea
 
 
 * 🔥 **FAIL** License file OFL.txt exists but NameID 13 (LICENSE DESCRIPTION) value on platform 3 (WINDOWS) is not specified for that. Value was: "This Font Software is licensed under the SIL Open Font License, Version 1.1. This Font Software is distributed on an "AS IS" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied. See the SIL Open Font License for the specific language, permissions and limitations governing your use of this Font Software." Must be changed to "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL" [code: wrong]
-</div></details><details><summary>🔥 <b>FAIL:</b> Is the Grid-fitting and Scan-conversion Procedure ('gasp') table set to optimize rendering? (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/googlefonts.html#com.google.fonts/check/gasp">com.google.fonts/check/gasp</a>)</summary><div>
-
-
-* 🔥 **FAIL** Font is missing the 'gasp' table. Try exporting the font with autohinting enabled.
-If you are dealing with an unhinted font, it can be fixed by running the fonts through the command 'gftools fix-nonhinting'
-GFTools is available at https://pypi.org/project/gftools/ [code: lacks-gasp]
-</div></details><details><summary>🔥 <b>FAIL:</b> Checking OS/2 fsSelection value. (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/googlefonts.html#com.google.fonts/check/fsselection">com.google.fonts/check/fsselection</a>)</summary><div>
-
-
-* 🔥 **FAIL** OS/2 fsSelection REGULAR bit should be unset. [code: bad-REGULAR]
-* 🔥 **FAIL** OS/2 fsSelection ITALIC bit should be set. [code: bad-ITALIC]
-</div></details><details><summary>🔥 <b>FAIL:</b> Checking head.macStyle value. (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/googlefonts.html#com.google.fonts/check/mac_style">com.google.fonts/check/mac_style</a>)</summary><div>
-
-
-* 🔥 **FAIL** head macStyle ITALIC bit should be set. [code: bad-ITALIC]
-</div></details><details><summary>🔥 <b>FAIL:</b> Check name table: FONT_FAMILY_NAME entries. (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/googlefonts.html#com.google.fonts/check/name/familyname">com.google.fonts/check/name/familyname</a>)</summary><div>
-
-
-* 🔥 **FAIL** Entry [FONT_FAMILY_NAME(1):WINDOWS(3)] on the "name" table: Expected "Noto Serif" but got "Noto Serif Italic". [code: mismatch]
-</div></details><details><summary>🔥 <b>FAIL:</b> Check name table: FONT_SUBFAMILY_NAME entries. (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/googlefonts.html#com.google.fonts/check/name/subfamilyname">com.google.fonts/check/name/subfamilyname</a>)</summary><div>
-
-
-* 🔥 **FAIL** SUBFAMILY_NAME for Win "Regular" must be "Italic" [code: bad-familyname]
-</div></details><details><summary>🔥 <b>FAIL:</b> Check name table: TYPOGRAPHIC_FAMILY_NAME entries. (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/googlefonts.html#com.google.fonts/check/name/typographicfamilyname">com.google.fonts/check/name/typographicfamilyname</a>)</summary><div>
-
-
-* 🔥 **FAIL** Font style is "Italic" and, for that reason, it is not expected to have a [TYPOGRAPHIC_FAMILY_NAME(16):WINDOWS(3)] entry! [code: ribbi]
-</div></details><details><summary>🔥 <b>FAIL:</b> Font enables smart dropout control in "prep" table instructions? (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/googlefonts.html#com.google.fonts/check/smart_dropout">com.google.fonts/check/smart_dropout</a>)</summary><div>
-
-
-* 🔥 **FAIL** The 'prep' table does not contain TrueType instructions enabling smart dropout control. To fix, export the font with autohinting enabled, or run ttfautohint on the font, or run the `gftools fix-nonhinting` script. [code: lacks-smart-dropout]
 </div></details><details><summary>🔥 <b>FAIL:</b> OS/2.fsSelection bit 7 (USE_TYPO_METRICS) is set in all fonts. (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/googlefonts.html#com.google.fonts/check/os2/use_typo_metrics">com.google.fonts/check/os2/use_typo_metrics</a>)</summary><div>
 
 
@@ -1959,16 +1857,16 @@ GFTools is available at https://pypi.org/project/gftools/ [code: lacks-gasp]
 
 
 * ⚠ **WARN** Following glyphs differ greatly from Google Fonts version:
-	* uni1D5E
-	* uni1F83
-	* uni1D33
-	* uni1F45
-	* uni1DA8
-	* uni1FCE
-	* uni1F0F
-	* uni1FE0
-	* uni1D2C
-	* uni1FA1 and 357 more.
+	* uni1D7F
+	* etatonos
+	* uni1FBA
+	* uni0364
+	* uni1FB7
+	* uni01C0
+	* uni1F68
+	* uni1D7E
+	* uni1D43
+	* uni1D4F and 357 more.
 
 Use -F or --full-lists to disable shortening of long lists.
 </div></details><details><summary>⚠ <b>WARN:</b> Is there kerning info for non-ligated sequences? (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/googlefonts.html#com.google.fonts/check/kerning_for_non_ligated_sequences">com.google.fonts/check/kerning_for_non_ligated_sequences</a>)</summary><div>
@@ -2018,25 +1916,25 @@ kavykawithkavykaaboveinvertedlow [code: legacy-long-names]
 
 * ⚠ **WARN** The following glyphs could not be reached by codepoint or substitution rules:
 
+	- uni03C5030403140300
+
+	- uni03C5030803040300
+
+	- psilioxia_macronmod
+
+	- uni03C5030803060300
+
+	- uni03B1030403140301
+
+	- uni03C5030403130301
+
 	- uni03B1030603140300
 
-	- uni1FCD0306
-
-	- uni1FDE0306
-
-	- uni03C5030803040301
-
-	- uni03B9030603140300
-
-	- uni03B9030803040300
-
-	- uni03B9030603130301
+	- psilivaria_macronmod
 
 	- uni03C5030803060301
 
-	- uni03C5030603140301
-
-	- uni03C5030403140301 
+	- uni03B9030603140300 
 
 	- And 31 more.
 
@@ -2190,25 +2088,25 @@ kavykawithkavykaaboveinvertedlow [code: legacy-long-names]
 
 * ⚠ **WARN** The following glyphs could not be reached by codepoint or substitution rules:
 
+	- uni03C5030403140300
+
+	- uni03C5030803040300
+
+	- psilioxia_macronmod
+
+	- uni03C5030803060300
+
+	- uni03B1030403140301
+
+	- uni03C5030403130301
+
 	- uni03B1030603140300
 
-	- uni1FCD0306
-
-	- uni1FDE0306
-
-	- uni03C5030803040301
-
-	- uni03B9030603140300
-
-	- uni03B9030803040300
-
-	- uni03B9030603130301
+	- psilivaria_macronmod
 
 	- uni03C5030803060301
 
-	- uni03C5030603140301
-
-	- uni03C5030403140301 
+	- uni03B9030603140300 
 
 	- And 31 more.
 
@@ -2388,25 +2286,25 @@ kavykawithkavykaaboveinvertedlow [code: legacy-long-names]
 
 * ⚠ **WARN** The following glyphs could not be reached by codepoint or substitution rules:
 
+	- uni03C5030403140300
+
+	- uni03C5030803040300
+
+	- psilioxia_macronmod
+
+	- uni03C5030803060300
+
+	- uni03B1030403140301
+
+	- uni03C5030403130301
+
 	- uni03B1030603140300
 
-	- uni1FCD0306
-
-	- uni1FDE0306
-
-	- uni03C5030803040301
-
-	- uni03B9030603140300
-
-	- uni03B9030803040300
-
-	- uni03B9030603130301
+	- psilivaria_macronmod
 
 	- uni03C5030803060301
 
-	- uni03C5030603140301
-
-	- uni03C5030403140301 
+	- uni03B9030603140300 
 
 	- And 31 more.
 
@@ -2548,25 +2446,25 @@ kavykawithkavykaaboveinvertedlow [code: legacy-long-names]
 
 * ⚠ **WARN** The following glyphs could not be reached by codepoint or substitution rules:
 
+	- uni03C5030403140300
+
+	- uni03C5030803040300
+
+	- psilioxia_macronmod
+
+	- uni03C5030803060300
+
+	- uni03B1030403140301
+
+	- uni03C5030403130301
+
 	- uni03B1030603140300
 
-	- uni1FCD0306
-
-	- uni1FDE0306
-
-	- uni03C5030803040301
-
-	- uni03B9030603140300
-
-	- uni03B9030803040300
-
-	- uni03B9030603130301
+	- psilivaria_macronmod
 
 	- uni03C5030803060301
 
-	- uni03C5030603140301
-
-	- uni03C5030403140301 
+	- uni03B9030603140300 
 
 	- And 31 more.
 
@@ -2760,25 +2658,25 @@ kavykawithkavykaaboveinvertedlow [code: legacy-long-names]
 
 * ⚠ **WARN** The following glyphs could not be reached by codepoint or substitution rules:
 
+	- uni03C5030403140300
+
+	- uni03C5030803040300
+
+	- psilioxia_macronmod
+
+	- uni03C5030803060300
+
+	- uni03B1030403140301
+
+	- uni03C5030403130301
+
 	- uni03B1030603140300
 
-	- uni1FCD0306
-
-	- uni1FDE0306
-
-	- uni03C5030803040301
-
-	- uni03B9030603140300
-
-	- uni03B9030803040300
-
-	- uni03B9030603130301
+	- psilivaria_macronmod
 
 	- uni03C5030803060301
 
-	- uni03C5030603140301
-
-	- uni03C5030403140301 
+	- uni03B9030603140300 
 
 	- And 31 more.
 
@@ -2901,16 +2799,16 @@ Use -F or --full-lists to disable shortening of long lists. [code: found-jaggy-s
 
 
 * ⚠ **WARN** Following glyphs differ greatly from Google Fonts version:
-	* uni1D5E
-	* uni1F83
-	* uni1D33
-	* uni1F45
-	* uni1DA8
-	* uni1FCE
-	* uni1FE0
-	* uni1D2C
-	* nu
-	* uni1FA1 and 368 more.
+	* uni1D7F
+	* etatonos
+	* uni1FBA
+	* uni0364
+	* uni1FB7
+	* uni01C0
+	* uni1D7E
+	* uni1D43
+	* uni1D4F
+	* uni1FB2 and 368 more.
 
 Use -F or --full-lists to disable shortening of long lists.
 </div></details><details><summary>⚠ <b>WARN:</b> Is there kerning info for non-ligated sequences? (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/googlefonts.html#com.google.fonts/check/kerning_for_non_ligated_sequences">com.google.fonts/check/kerning_for_non_ligated_sequences</a>)</summary><div>
@@ -2948,25 +2846,25 @@ kavykawithkavykaaboveinvertedlow [code: legacy-long-names]
 
 * ⚠ **WARN** The following glyphs could not be reached by codepoint or substitution rules:
 
+	- uni03C5030403140300
+
+	- uni03C5030803040300
+
+	- psilioxia_macronmod
+
+	- uni03C5030803060300
+
+	- uni03B1030403140301
+
+	- uni03C5030403130301
+
 	- uni03B1030603140300
 
-	- uni1FCD0306
-
-	- uni1FDE0306
-
-	- uni03C5030803040301
-
-	- uni03B9030603140300
-
-	- uni03B9030803040300
-
-	- uni03B9030603130301
+	- psilivaria_macronmod
 
 	- uni03C5030803060301
 
-	- uni03C5030603140301
-
-	- uni03C5030403140301 
+	- uni03B9030603140300 
 
 	- And 31 more.
 
@@ -3140,25 +3038,25 @@ kavykawithkavykaaboveinvertedlow [code: legacy-long-names]
 
 * ⚠ **WARN** The following glyphs could not be reached by codepoint or substitution rules:
 
+	- uni03C5030403140300
+
+	- uni03C5030803040300
+
+	- psilioxia_macronmod
+
+	- uni03C5030803060300
+
+	- uni03B1030403140301
+
+	- uni03C5030403130301
+
 	- uni03B1030603140300
 
-	- uni1FCD0306
-
-	- uni1FDE0306
-
-	- uni03C5030803040301
-
-	- uni03B9030603140300
-
-	- uni03B9030803040300
-
-	- uni03B9030603130301
+	- psilivaria_macronmod
 
 	- uni03C5030803060301
 
-	- uni03C5030603140301
-
-	- uni03C5030403140301 
+	- uni03B9030603140300 
 
 	- And 31 more.
 
@@ -3344,25 +3242,25 @@ kavykawithkavykaaboveinvertedlow [code: legacy-long-names]
 
 * ⚠ **WARN** The following glyphs could not be reached by codepoint or substitution rules:
 
+	- uni03C5030403140300
+
+	- uni03C5030803040300
+
+	- psilioxia_macronmod
+
+	- uni03C5030803060300
+
+	- uni03B1030403140301
+
+	- uni03C5030403130301
+
 	- uni03B1030603140300
 
-	- uni1FCD0306
-
-	- uni1FDE0306
-
-	- uni03C5030803040301
-
-	- uni03B9030603140300
-
-	- uni03B9030803040300
-
-	- uni03B9030603130301
+	- psilivaria_macronmod
 
 	- uni03C5030803060301
 
-	- uni03C5030603140301
-
-	- uni03C5030403140301 
+	- uni03B9030603140300 
 
 	- And 31 more.
 
@@ -3516,25 +3414,25 @@ kavykawithkavykaaboveinvertedlow [code: legacy-long-names]
 
 * ⚠ **WARN** The following glyphs could not be reached by codepoint or substitution rules:
 
+	- uni03C5030403140300
+
+	- uni03C5030803040300
+
+	- psilioxia_macronmod
+
+	- uni03C5030803060300
+
+	- uni03B1030403140301
+
+	- uni03C5030403130301
+
 	- uni03B1030603140300
 
-	- uni1FCD0306
-
-	- uni1FDE0306
-
-	- uni03C5030803040301
-
-	- uni03B9030603140300
-
-	- uni03B9030803040300
-
-	- uni03B9030603130301
+	- psilivaria_macronmod
 
 	- uni03C5030803060301
 
-	- uni03C5030603140301
-
-	- uni03C5030403140301 
+	- uni03B9030603140300 
 
 	- And 31 more.
 
@@ -3718,25 +3616,25 @@ kavykawithkavykaaboveinvertedlow [code: legacy-long-names]
 
 * ⚠ **WARN** The following glyphs could not be reached by codepoint or substitution rules:
 
+	- uni03C5030403140300
+
+	- uni03C5030803040300
+
+	- psilioxia_macronmod
+
+	- uni03C5030803060300
+
+	- uni03B1030403140301
+
+	- uni03C5030403130301
+
 	- uni03B1030603140300
 
-	- uni1FCD0306
-
-	- uni1FDE0306
-
-	- uni03C5030803040301
-
-	- uni03B9030603140300
-
-	- uni03B9030803040300
-
-	- uni03B9030603130301
+	- psilivaria_macronmod
 
 	- uni03C5030803060301
 
-	- uni03C5030603140301
-
-	- uni03C5030403140301 
+	- uni03B9030603140300 
 
 	- And 31 more.
 
@@ -3944,25 +3842,25 @@ kavykawithkavykaaboveinvertedlow [code: legacy-long-names]
 
 * ⚠ **WARN** The following glyphs could not be reached by codepoint or substitution rules:
 
+	- uni03C5030403140300
+
+	- uni03C5030803040300
+
+	- psilioxia_macronmod
+
+	- uni03C5030803060300
+
+	- uni03B1030403140301
+
+	- uni03C5030403130301
+
 	- uni03B1030603140300
 
-	- uni1FCD0306
-
-	- uni1FDE0306
-
-	- uni03C5030803040301
-
-	- uni03B9030603140300
-
-	- uni03B9030803040300
-
-	- uni03B9030603130301
+	- psilivaria_macronmod
 
 	- uni03C5030803060301
 
-	- uni03C5030603140301
-
-	- uni03C5030403140301 
+	- uni03B9030603140300 
 
 	- And 31 more.
 
@@ -4058,25 +3956,25 @@ kavykawithkavykaaboveinvertedlow [code: legacy-long-names]
 
 * ⚠ **WARN** The following glyphs could not be reached by codepoint or substitution rules:
 
+	- uni03C5030403140300
+
+	- uni03C5030803040300
+
+	- psilioxia_macronmod
+
+	- uni03C5030803060300
+
+	- uni03B1030403140301
+
+	- uni03C5030403130301
+
 	- uni03B1030603140300
 
-	- uni1FCD0306
-
-	- uni1FDE0306
-
-	- uni03C5030803040301
-
-	- uni03B9030603140300
-
-	- uni03B9030803040300
-
-	- uni03B9030603130301
+	- psilivaria_macronmod
 
 	- uni03C5030803060301
 
-	- uni03C5030603140301
-
-	- uni03C5030403140301 
+	- uni03B9030603140300 
 
 	- And 31 more.
 
@@ -4097,8 +3995,8 @@ The current recommendation is to completely remove the DSIG table. [code: found-
 
 | 💔 ERROR | 🔥 FAIL | ⚠ WARN | 💤 SKIP | ℹ INFO | 🍞 PASS | 🔎 DEBUG |
 |:-----:|:----:|:----:|:----:|:----:|:----:|:----:|
-| 4 | 139 | 207 | 2458 | 170 | 1877 | 0 |
-| 0% | 3% | 4% | 51% | 4% | 39% | 0% |
+| 4 | 118 | 206 | 2458 | 173 | 1896 | 0 |
+| 0% | 2% | 4% | 51% | 4% | 39% | 0% |
 
 **Note:** The following loglevels were omitted in this report:
 * **SKIP**

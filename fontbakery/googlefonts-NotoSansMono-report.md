@@ -94,16 +94,16 @@ kavykawithkavykaaboveinvertedlow [code: legacy-long-names]
 
 
 * ⚠ **WARN** Following glyphs differ greatly from Google Fonts version:
-	* uni0224
-	* uniA643
-	* uniA773
-	* uni20BF
-	* uniA738
-	* uni023B
-	* uni20BB
-	* uni1FB8
-	* uni019E
-	* uni04C5 and 531 more.
+	* uni2123
+	* uni1FBC
+	* uniA734
+	* uni019B
+	* uni04E9
+	* uni0275
+	* uni04E8
+	* uni0206
+	* uni042E
+	* Amacron and 531 more.
 
 Use -F or --full-lists to disable shortening of long lists.
 </div></details><details><summary>⚠ <b>WARN:</b> Ensure Stylistic Sets have description. (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/googlefonts.html#com.google.fonts/check/stylisticset_description">com.google.fonts/check/stylisticset_description</a>)</summary><div>
@@ -257,16 +257,16 @@ Use -F or --full-lists to disable shortening of long lists. [code: found-semi-ve
 
 
 * ⚠ **WARN** Following glyphs differ greatly from Google Fonts version:
-	* uni0224
-	* uniA643
-	* uniA773
-	* uni20BF
-	* uniA738
-	* uni023B
-	* uni20BB
-	* uni019E
-	* uni04C5
-	* uni04FC and 440 more.
+	* uni2123
+	* uniA734
+	* uni019B
+	* uni04E9
+	* uni0275
+	* uni04E8
+	* uni0206
+	* uni20B3
+	* uni1D9A
+	* eng and 440 more.
 
 Use -F or --full-lists to disable shortening of long lists.
 </div></details><details><summary>⚠ <b>WARN:</b> Ensure Stylistic Sets have description. (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/googlefonts.html#com.google.fonts/check/stylisticset_description">com.google.fonts/check/stylisticset_description</a>)</summary><div>
@@ -426,16 +426,16 @@ Use -F or --full-lists to disable shortening of long lists. [code: found-semi-ve
 
 
 * ⚠ **WARN** Following glyphs differ greatly from Google Fonts version:
-	* uni0224
-	* uniA643
-	* uniA773
-	* uni20BF
-	* uniA738
-	* uni023B
-	* uni20BB
-	* uni019E
-	* uni04C5
-	* uni04FC and 465 more.
+	* uni2123
+	* uniA734
+	* uni019B
+	* uni04E9
+	* uni0275
+	* uni04E8
+	* uni0206
+	* uni042E
+	* uni20B3
+	* uni1D9A and 465 more.
 
 Use -F or --full-lists to disable shortening of long lists.
 </div></details><details><summary>⚠ <b>WARN:</b> Combined length of family and style must not exceed 27 characters. (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/googlefonts.html#com.google.fonts/check/name/family_and_style_max_length">com.google.fonts/check/name/family_and_style_max_length</a>)</summary><div>
@@ -602,16 +602,16 @@ Use -F or --full-lists to disable shortening of long lists. [code: found-semi-ve
 
 
 * ⚠ **WARN** Following glyphs differ greatly from Google Fonts version:
-	* uni2475
-	* backslash
-	* uni020F
-	* uni2035
-	* uni04ED
-	* uni0295
-	* radical.mir
-	* uniA684
+	* uni0206
+	* eng
+	* uniAB3C
+	* uni0311
+	* uni204F
+	* uni0529
+	* uniA657
 	* uni020A
-	* uni0207 and 73 more.
+	* uni042D
+	* uni042F and 73 more.
 
 Use -F or --full-lists to disable shortening of long lists.
 </div></details><details><summary>⚠ <b>WARN:</b> Combined length of family and style must not exceed 27 characters. (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/googlefonts.html#com.google.fonts/check/name/family_and_style_max_length">com.google.fonts/check/name/family_and_style_max_length</a>)</summary><div>
@@ -766,16 +766,16 @@ Use -F or --full-lists to disable shortening of long lists.
 
 
 * ⚠ **WARN** Following glyphs differ greatly from Google Fonts version:
-	* uni2475
+	* uniA734
+	* uni0206
 	* uni20B3
-	* backslash
-	* uni020F
-	* uni20B6
-	* uni2035
-	* uni04ED
-	* uni0295
-	* radical.mir
-	* uniA684 and 102 more.
+	* eng
+	* uniAB3C
+	* uni0311
+	* uni204F
+	* uni0529
+	* uniA657
+	* uni020A and 102 more.
 
 Use -F or --full-lists to disable shortening of long lists.
 </div></details><details><summary>⚠ <b>WARN:</b> Ensure Stylistic Sets have description. (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/googlefonts.html#com.google.fonts/check/stylisticset_description">com.google.fonts/check/stylisticset_description</a>)</summary><div>
@@ -931,16 +931,16 @@ Use -F or --full-lists to disable shortening of long lists. [code: found-colinea
 
 
 * ⚠ **WARN** Following glyphs differ greatly from Google Fonts version:
-	* uni0224
-	* uniA643
-	* uniA773
-	* uni20BF
-	* uni023B
-	* uni20BB
-	* uni019E
-	* uniA7A9
-	* uni1FC3
-	* uni2249.mir and 334 more.
+	* uni2123
+	* uniA734
+	* uni019B
+	* uni04E9
+	* uni0275
+	* uni04E8
+	* uni0206
+	* uni20B3
+	* eng
+	* uni1F20 and 334 more.
 
 Use -F or --full-lists to disable shortening of long lists.
 </div></details><details><summary>⚠ <b>WARN:</b> Combined length of family and style must not exceed 27 characters. (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/googlefonts.html#com.google.fonts/check/name/family_and_style_max_length">com.google.fonts/check/name/family_and_style_max_length</a>)</summary><div>
@@ -1091,16 +1091,16 @@ Use -F or --full-lists to disable shortening of long lists.
 
 
 * ⚠ **WARN** Following glyphs differ greatly from Google Fonts version:
-	* uniA643
-	* uniA773
-	* uni20BF
-	* uni023B
-	* uni20BB
-	* uni019E
-	* uniA7A9
-	* uni1FC3
-	* uni2249.mir
-	* uni04EB and 242 more.
+	* uni2123
+	* uniA734
+	* uni04E9
+	* uni0275
+	* uni04E8
+	* uni0206
+	* uni20B3
+	* eng
+	* uni1F20
+	* zero.osf and 242 more.
 
 Use -F or --full-lists to disable shortening of long lists.
 </div></details><details><summary>⚠ <b>WARN:</b> Ensure Stylistic Sets have description. (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/googlefonts.html#com.google.fonts/check/stylisticset_description">com.google.fonts/check/stylisticset_description</a>)</summary><div>
@@ -1242,16 +1242,16 @@ Use -F or --full-lists to disable shortening of long lists.
 
 
 * ⚠ **WARN** Following glyphs differ greatly from Google Fonts version:
-	* uni0224
-	* uniA643
-	* uniA773
-	* uni20BF
-	* uni023B
-	* uni20BB
-	* uni019E
-	* uni04C5
-	* uni04FC
-	* uniA7A9 and 393 more.
+	* uni2123
+	* uniA734
+	* uni019B
+	* uni04E9
+	* uni0275
+	* uni04E8
+	* uni0206
+	* uni20B3
+	* eng
+	* uni1F20 and 393 more.
 
 Use -F or --full-lists to disable shortening of long lists.
 </div></details><details><summary>⚠ <b>WARN:</b> Combined length of family and style must not exceed 27 characters. (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/googlefonts.html#com.google.fonts/check/name/family_and_style_max_length">com.google.fonts/check/name/family_and_style_max_length</a>)</summary><div>
@@ -1420,16 +1420,16 @@ Use -F or --full-lists to disable shortening of long lists. [code: found-semi-ve
 
 
 * ⚠ **WARN** Following glyphs differ greatly from Google Fonts version:
-	* uni2475
-	* backslash
-	* uni020F
-	* uni2035
-	* uni04ED
-	* uni0295
-	* radical.mir
+	* uni0206
+	* uni0311
+	* uni204F
 	* uni020A
-	* uni0207
-	* uni2037 and 66 more.
+	* uni042D
+	* uni042F
+	* uniA716
+	* uni01B8
+	* uni03FF
+	* uni2E11 and 66 more.
 
 Use -F or --full-lists to disable shortening of long lists.
 </div></details><details><summary>⚠ <b>WARN:</b> Ensure Stylistic Sets have description. (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/googlefonts.html#com.google.fonts/check/stylisticset_description">com.google.fonts/check/stylisticset_description</a>)</summary><div>
